@@ -1,0 +1,49 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'sZ4VJTXak0ZHYOjPAAAAAJevQvhzOR5kWB7Qu-Gq3UI='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': 'aa198181f2fec6db58bfacc4e4999b7f'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'ZVRSTmVrYkp6dFR1VmRBOVZfMnJqQUNha3BjeHJfU3dDWG9yVUNHbWlUTVRXQ2RWU2U0NEhPdTZQcFlSUFRWOEJXRjd0Z09qTEhSMzJTQVJfVGZFN0N0WUZ3c1NXMjFEdUdhWlM5bzJFNW1XWnFwRXpMcmRIa0hvWmRzYURBaXVLam9MNVlaRHliOWQxazB5'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'a7f05aae3497142f415bc7a718e9fcc3'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'BmlBODTvTUBDSvFU7ymFmaHUG0yfqnAp9waHOxXfABTX8Ixb11pWZ8zb4X8Iht9c'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55269568811813'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655615195, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIJjhX6PaCjE1jhnIURGr91uql5BGftTKi/1JQSlqwAme'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'sZ4VJTXak0ZHYOjPAAAAAJevQvhzOR5kWB7Qu-Gq3UI=', 'xid': 'aa198181f2fec6db58bfacc4e4999b7f', 'slave_sid': 'ZVRSTmVrYkp6dFR1VmRBOVZfMnJqQUNha3BjeHJfU3dDWG9yVUNHbWlUTVRXQ2RWU2U0NEhPdTZQcFlSUFRWOEJXRjd0Z09qTEhSMzJTQVJfVGZFN0N0WUZ3c1NXMjFEdUdhWlM5bzJFNW1XWnFwRXpMcmRIa0hvWmRzYURBaXVLam9MNVlaRHliOWQxazB5', 'uuid': 'a7f05aae3497142f415bc7a718e9fcc3', 'data_ticket': 'BmlBODTvTUBDSvFU7ymFmaHUG0yfqnAp9waHOxXfABTX8Ixb11pWZ8zb4X8Iht9c', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55269568811813', 'rand_info': 'CAESIJjhX6PaCjE1jhnIURGr91uql5BGftTKi/1JQSlqwAme'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "sZ4VJTXak0ZHYOjPAAAAAJevQvhzOR5kWB7Qu-Gq3UI=", "xid": "aa198181f2fec6db58bfacc4e4999b7f", "slave_sid": "ZVRSTmVrYkp6dFR1VmRBOVZfMnJqQUNha3BjeHJfU3dDWG9yVUNHbWlUTVRXQ2RWU2U0NEhPdTZQcFlSUFRWOEJXRjd0Z09qTEhSMzJTQVJfVGZFN0N0WUZ3c1NXMjFEdUdhWlM5bzJFNW1XWnFwRXpMcmRIa0hvWmRzYURBaXVLam9MNVlaRHliOWQxazB5", "uuid": "a7f05aae3497142f415bc7a718e9fcc3", "data_ticket": "BmlBODTvTUBDSvFU7ymFmaHUG0yfqnAp9waHOxXfABTX8Ixb11pWZ8zb4X8Iht9c", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55269568811813", "rand_info": "CAESIJjhX6PaCjE1jhnIURGr91uql5BGftTKi/1JQSlqwAme"}
+cookies信息已保存到本地
+开始爬取公众号：李镜合
+历史文章总数为 88
+88
+正在翻页：-------------- 70 / 88
+20220615-130617
+获取到原创文章：从危地马拉正在喷发的火山说起 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483762&idx=1&sn=d4d8c4507b17341f39831cc872e67e51&chksm=fe58cb08c92f421ef404b91f30eaf38483bf398607c18d6457df9b0c536fd7a35f72c83725b5#rd
+获取到原创文章：从上游冲下来的故事和待占卜的叶子 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483750&idx=1&sn=9ec0c6685ff72023751914dcc330e660&chksm=fe58cb1cc92f420a262b8fab5faabfc3d2c71926aeebf53f335d62c4e70566895b200bbfbe14#rd
+获取到原创文章：一种传说很神奇的冰块运输贮藏和制作方法了 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483746&idx=1&sn=939aa22fb6b05d51c7342d073fb5a3fe&chksm=fe58cb18c92f420e7edd09613a815825eddece9e4586096b17b91bf95f65f928dfd7242f9f01#rd
+获取到原创文章：最近多余段子集锦（精选能看懂的！） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483742&idx=1&sn=e734428cfb9cccca8c10e8b1a7ddab98&chksm=fe58cb24c92f42326280894f2367475e83394efb039b23e5b0fd72b21a08d48ae5a0ff219e12#rd
+获取到原创文章：维以不永伤 (北京往事:4) ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483728&idx=1&sn=9a15a7cfc4801bd608f22d3bb0616c80&chksm=fe58cb2ac92f423c240a935818ee71a3888d968423084e6b65f467649ea2a871f04eedb83f3e#rd
+正在翻页：-------------- 75 / 88
+20220615-130730
+获取到原创文章：宇宙桌球 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483725&idx=1&sn=a99714d027faf240f483a550de715427&chksm=fe58cb37c92f42210309908980ac1f26baf1884abfb4cb7ad162710dff1f6404fad8062cebe7#rd
+获取到原创文章：物证（最近生活场景段子打包） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483720&idx=1&sn=7070bf96f4ed9c060a584608c20a2596&chksm=fe58cb32c92f42249271d1fc966445a9899b2c0d2962d1af0ce9179f181fce836c65cb1a7fc5#rd
+获取到原创文章：北美华人的食物和餐馆 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483717&idx=1&sn=6399afe49e99fc529ac2c6e5d7d05139&chksm=fe58cb3fc92f4229db9207a2d697a2895993be7b8be0ca63e8bdaec6a3ada965fd9bbe2b5d20#rd
+获取到原创文章：我的北大燕南园 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483705&idx=1&sn=550094798b52be445a428789cbfb0e94&chksm=fe58cb43c92f4255e01c4e8ae46783036c82c29a5c5f9f53e39b2dd2c3b3e812443ee4363e57#rd
+获取到原创文章：厨房的秘密：你为什么吃不胖？！（文风很克制了） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483702&idx=1&sn=943c1db1344760a9caf31015c352cc5c&chksm=fe58cb4cc92f425a4210dcfa9a78e46908f150f68a398aa925842646d8c6c87f841cac52f7ce#rd
+正在翻页：-------------- 80 / 88
+20220615-130855
+获取到原创文章：我在国外的一个party上打开了一包乌江涪陵榨菜 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483699&idx=1&sn=f84b75aea691fea56f641f393b07b79a&chksm=fe58cb49c92f425f77e76ccada55a56274dea255d44103d81fd74992fb2fad47895b6d204272#rd
+获取到原创文章：中餐，很神奇（跨国对谈充满爱） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483695&idx=1&sn=61d827e92dbf96c6b30674a090f88534&chksm=fe58cb55c92f4243c110c80e17b2a5b86e8b5f8e53eaf8f73e18847b8e41a2503ea7f94fd5fd#rd
+获取到原创文章：我的一份无疾而终的爱情电报 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483692&idx=1&sn=592d66df6e56e6be1a43cc9664877aea&chksm=fe58cb56c92f4240fe1eb59117c93afc60bb79ba39aaccb37ac211d109c2aa303c0cac6fe3fb#rd
+获取到原创文章：说一点宇喜多秀家 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483689&idx=1&sn=7cac9a4b6380258d467dd34575d7e45b&chksm=fe58cb53c92f4245a7d39ba2798aea65c0220e90de50767fb7427c7b79c8f107c16b223fbd8e#rd
+获取到原创文章：女朋友曾经是一件艺术品（北京往事：3） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483683&idx=1&sn=121a47aa8c172b9cf35d0dace36a0f4b&chksm=fe58cb59c92f424fc1a4a77861fbc255076ea103962612f9e7bfdf261a934609ebe7772d0852#rd
+正在翻页：-------------- 85 / 88
+20220615-131011
+获取到原创文章：一个美国人的四川话（北京往事：2） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483680&idx=1&sn=2a4f0d754fbfc2d312a115b0e4f57bb5&chksm=fe58cb5ac92f424c9eda381253f91c036fdaa345cec95764e1814307822fa9f8c32ea8c22717#rd
+获取到原创文章：上班之后的猫都在做什么？ ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483677&idx=1&sn=7ef4473d87c307947029b348c357b673&chksm=fe58cb67c92f4271213361bce850c44eee664c3130d04114ad7da50e2a0382ba4d96dc6162ba#rd
+获取到原创文章：宫保鸡丁和管童童（北京往事：1） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483652&idx=1&sn=89f267a4951f4a147c0e9b194b659d0d&chksm=fe58cb7ec92f426865dc89771c97d54672e408370fd0c3bbaf29b9abd2c9adedb375600d6ece#rd
+正在翻页：-------------- 90 / 88
+20220615-131114
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 203, in <module>
+    get_content(query)
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 181, in get_content
+    time.sleep(50)
+KeyboardInterrupt

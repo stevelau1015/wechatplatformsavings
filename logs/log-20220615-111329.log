@@ -1,0 +1,10 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 198, in <module>
+    weChat_login()
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 56, in weChat_login
+    time.sleep(15)
+KeyboardInterrupt

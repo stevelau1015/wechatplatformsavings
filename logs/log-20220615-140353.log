@@ -1,0 +1,75 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'sdfOeLz3ANlBqZ6FAAAAAKUrG067Efou0qeX0bN5kCU='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': 'a2b307052a76faa1d2fb689c95e9e5c4'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'MmNKTXg4bnB2TF9tekZ6SjE5YUhycDhGNmU4MkpzeWhYWThqeWo2UWJ0VGE3Wk5QWTZKdGN3Q2gwUUF1UmRXWm9wVklqM0Q1a015T2dOVDQ0NDR5d1JkVDlRSkVlUVFrTHpwcnNzSkJVSFRpVEZjc2ZQYTdCQ1c0cnZCNmJiNkZST0V6cHBRUGZxSVkwRlky'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'ac924022dcead8a016c5278e29310545'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'QpLJo7mQ/8fLE2wNyXX6wMKcfyDP1M+IPGXwa9ZdITRFV1ofaZseZK8JgnyHwzTN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55273059517495'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655618686, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIEhsoujjxAGuQnK4h9txOi3wFUPKL4W1RSN7NZhkyML2'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'sdfOeLz3ANlBqZ6FAAAAAKUrG067Efou0qeX0bN5kCU=', 'xid': 'a2b307052a76faa1d2fb689c95e9e5c4', 'slave_sid': 'MmNKTXg4bnB2TF9tekZ6SjE5YUhycDhGNmU4MkpzeWhYWThqeWo2UWJ0VGE3Wk5QWTZKdGN3Q2gwUUF1UmRXWm9wVklqM0Q1a015T2dOVDQ0NDR5d1JkVDlRSkVlUVFrTHpwcnNzSkJVSFRpVEZjc2ZQYTdCQ1c0cnZCNmJiNkZST0V6cHBRUGZxSVkwRlky', 'uuid': 'ac924022dcead8a016c5278e29310545', 'data_ticket': 'QpLJo7mQ/8fLE2wNyXX6wMKcfyDP1M+IPGXwa9ZdITRFV1ofaZseZK8JgnyHwzTN', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55273059517495', 'rand_info': 'CAESIEhsoujjxAGuQnK4h9txOi3wFUPKL4W1RSN7NZhkyML2'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "sdfOeLz3ANlBqZ6FAAAAAKUrG067Efou0qeX0bN5kCU=", "xid": "a2b307052a76faa1d2fb689c95e9e5c4", "slave_sid": "MmNKTXg4bnB2TF9tekZ6SjE5YUhycDhGNmU4MkpzeWhYWThqeWo2UWJ0VGE3Wk5QWTZKdGN3Q2gwUUF1UmRXWm9wVklqM0Q1a015T2dOVDQ0NDR5d1JkVDlRSkVlUVFrTHpwcnNzSkJVSFRpVEZjc2ZQYTdCQ1c0cnZCNmJiNkZST0V6cHBRUGZxSVkwRlky", "uuid": "ac924022dcead8a016c5278e29310545", "data_ticket": "QpLJo7mQ/8fLE2wNyXX6wMKcfyDP1M+IPGXwa9ZdITRFV1ofaZseZK8JgnyHwzTN", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55273059517495", "rand_info": "CAESIEhsoujjxAGuQnK4h9txOi3wFUPKL4W1RSN7NZhkyML2"}
+cookies信息已保存到本地
+开始爬取公众号：沙漏狗shallowdog
+历史文章总数为 51
+51
+正在翻页：-------------- 27 / 51
+20220615-140427
+获取到原创文章：我见了那位给5000个女生打分的艺术家，还彼此 “物化” 了一下 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487386&idx=1&sn=c62dc7a142c4e604f4218362051039d1&chksm=c03845c0f74fccd6e0901469e55082bf9a57e442c9dcf3e9f86658d0bd8c0a81755ae4f6d055#rd
+获取到原创文章：一个公众号编辑来到神父前 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487385&idx=1&sn=9f202134cf63ce7f07be000d972d105b&chksm=c03845c3f74fccd583e51762ea53967e6054e04a904490186e6b3e772c9da998a298d89cac03#rd
+获取到原创文章：大厂寄生手记 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487384&idx=1&sn=dd1fd8f3e80778ab710500133758a6fd&chksm=c03845c2f74fccd4f8a48e174cc4564e320d4725ce02a2b8989fd72080e022e382ac9d261f27#rd
+获取到原创文章：你是中年男人，你特体面 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487382&idx=1&sn=e37da0b147a87a148ea26a3d8d6b5a5f&chksm=c03845ccf74fccda536133d51195bbf05e339f51705651aa2aa144e6259ca2c94d2cefc59c50#rd
+获取到原创文章：我们分手了，送一对《情书》 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487381&idx=1&sn=69597169f4960b2ea17dc879d88a3710&chksm=c03845cff74fccd9e5bfa3bbce8bf18aad22ea40e0d55c9a03887908af5d8b89983bbfab5935#rd
+正在翻页：-------------- 32 / 51
+20220615-140539
+获取到原创文章：《爱的多重奏》——阿兰·巴迪欧 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487380&idx=1&sn=29704119f9c3323fb565d08576722478&chksm=c03845cef74fccd88407553b7c813b471dd77464a861e4fada30df28c9e01e962f466c5a415d#rd
+获取到原创文章：来自狗勾的邀请函：
+
+晚上好！我们想试运营一个粉丝群，诚邀您的加入！
+
+蔡菜&冷罐 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487379&idx=1&sn=a42a9587b7ea8b302e06d7c422ce284c&chksm=c03845c9f74fccdf2c9fdab99a5fe31dcdb8446268ec266c68bb7306b5a84d2006e9005374f3#rd
+获取到原创文章：北京姘头回忆录 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487378&idx=1&sn=437968dad7e01081e22f7e5d4fdd5e67&chksm=c03845c8f74fccde3c065f0a585df7a7bc685ee4587a2388d08ed923f3a4a914c8d0e6cacf32#rd
+获取到原创文章：屌 丝 终 曲 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487377&idx=1&sn=fb1352bdc2d32fcc9f966d805dea5d2a&chksm=c03845cbf74fccdd5d64b7da8fd056a5b1649f4df69e51a78a95f5df8869a42978a6b58f988c#rd
+获取到原创文章：你办公室里一定有这么一个傻 x ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487375&idx=1&sn=baa804bba90defb7294dc319b6525e8e&chksm=c03845d5f74fccc38759c97e3af5a6b2837a233631a410b05dfb81bc9b5572795e83c73082db#rd
+正在翻页：-------------- 37 / 51
+20220615-140647
+获取到原创文章：关于粉丝迁移至本公众号的说明 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487374&idx=1&sn=d84fac7b28f1428f04c08c431ac52b4f&chksm=c03845d4f74fccc2f10da5040fb8bea4ff5123b5e9beaee93d56ce689ebe6838a3c313039a08#rd
+获取到原创文章：痔疮手术是当代男性的割礼 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487373&idx=1&sn=1ae8063f3aa05827b989173dceae64ad&chksm=c03845d7f74fccc144bb2df3102b33a879000ea38ddf14833a896eb9bdebb11c737dd6c7cc0a#rd
+获取到原创文章：亚逼消亡史 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487372&idx=1&sn=178e8dd8e44ce8feaaa0622b0e0974d0&chksm=c03845d6f74fccc0f9e0fa907f7994f1b9f62cc9af6c5838dbe4d451068a60e92797d5ad1cee#rd
+获取到原创文章：关于粉丝迁移至本公众号的说明 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487371&idx=1&sn=b6bca227e01a9ec93ff2fcc99754e137&chksm=c03845d1f74fccc70727b459c3fed76cc815ffe3b91a778c07271b02c760dff77e471a74f21c#rd
+获取到原创文章：2020年的三和大神回不了三和 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487370&idx=1&sn=169a8c253fd0920e1ccdaf33ab3e1336&chksm=c03845d0f74fccc61396e607d6422192579a604b5c6af06db94317d11be7740794b3be2ae895#rd
+正在翻页：-------------- 42 / 51
+20220615-140756
+获取到原创文章：拼多多的官方声明是流氓逻辑的样板戏 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487369&idx=1&sn=53ec78ae3539f5abbe41aeca64e1c82c&chksm=c03845d3f74fccc56afb4130bb126622a7b0ed51ebb7f17d7b6af245f903f0f3b265d35d8b9d#rd
+获取到原创文章：郭敬明，寂寞的王 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487368&idx=1&sn=9b4a78dbcb48090231919a161b10358c&chksm=c03845d2f74fccc47e891fb7c8ab8a512b66c936befc88cfd4aadd6f30b2319bf51b56e1f89e#rd
+获取到原创文章：一张贺卡 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487367&idx=1&sn=a5475c1171194d5ba5f1788ff7d99905&chksm=c03845ddf74fcccbfcb76795db331c2348a251779a0cc83266667eb8d15feb4300642fdacf5c#rd
+获取到原创文章：神奇女侠劝你放弃梦想 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487366&idx=1&sn=668d508cbd4d3694c617aa0a9a03020d&chksm=c03845dcf74fccca67157c89c5c59dfce7bc52abfbbca239060e0dd5c7156b9a28cf87d60bd0#rd
+获取到原创文章：送几张马上开始的电影票！！ ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487365&idx=1&sn=e9acd1d326cbd381aff0dbc7c016db6b&chksm=c03845dff74fccc94e8898c2c0efffae250318f1316b0e7c0164a75f669bb9530a0eb6f60036#rd
+正在翻页：-------------- 47 / 51
+20220615-140903
+获取到原创文章：阳痿是绅士的品格 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487364&idx=1&sn=5e69b92458f5e32a240ddee110c11b03&chksm=c03845def74fccc8aa383dc2dfe86c81314cdf9a90927555a62054b5373e176e653bd13c8a10#rd
+获取到原创文章：别装了，土狗男孩才是你的性幻想对象 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487363&idx=1&sn=3e278255cb71b62896140f4eacfb0f67&chksm=c03845d9f74fcccfe6936484b843fcf256afdaba254ef2f51651595b2b531b15f288155b4f6b#rd
+获取到原创文章：现在的中国首富没以前野了 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487362&idx=1&sn=a35405b479ec2e159c675f5fe91a51e9&chksm=c03845d8f74fcccedcf2c67c28b4470526f8a3f0ecef71b4f9226b4491716ec0e89318645725#rd
+获取到原创文章：花小猪的哥的霸道，可能是老司机们最后的倔强 ： http://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjE0OQ==&mid=2247487361&idx=1&sn=99d72d36000e0aeeac2d3e0d1af6031f&chksm=c03845dbf74fcccd8b4a0af756d95d07021192283b20419c11cc82d8212fc7feda4ef8dab775#rd
+正在翻页：-------------- 52 / 51
+20220615-141010
+正在翻页：-------------- 57 / 51
+20220615-141101
+正在翻页：-------------- 62 / 51
+20220615-141151
+正在翻页：-------------- 67 / 51
+20220615-141241
+正在翻页：-------------- 72 / 51
+20220615-141332
+正在翻页：-------------- 77 / 51
+20220615-141422
+爬取完成
+开始爬取公众号：某公众号
+历史文章总数为 88
+88
+正在翻页：-------------- 27 / 88
+20220615-141516
+获取到原创文章：未成年勿入！LSP最爱の看图神器APP ： http://mp.weixin.qq.com/s?__biz=Mzg2NzU5MDIzMg==&mid=2247487938&idx=1&sn=4b528d0d02cc8973bb2e9da4cf4c0095&chksm=ceb818f5f9cf91e34ca82575f6a2a5f87b3d54b3da5f9a55dc45d167990b7484e3f1e26e2015#rd
+wkhtmltopdf reported an error:
+Exit with code 1 due to network error: ContentNotFoundError
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

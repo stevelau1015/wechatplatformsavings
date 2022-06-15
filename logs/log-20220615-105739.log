@@ -1,0 +1,14 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '3b023bd793aa6bb6df548f9a7230ca0a'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454824, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55261886290848'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': '8uzr19euVjDe7pQFAAAAAIRNwYR4tMIx9lfHMFV8Xfc='}]
+<class 'dict'>
+{'uuid': '3b023bd793aa6bb6df548f9a7230ca0a', 'wxuin': '55261886290848', 'ua_id': '8uzr19euVjDe7pQFAAAAAIRNwYR4tMIx9lfHMFV8Xfc='}
+<class 'str'>
+{"uuid": "3b023bd793aa6bb6df548f9a7230ca0a", "wxuin": "55261886290848", "ua_id": "8uzr19euVjDe7pQFAAAAAIRNwYR4tMIx9lfHMFV8Xfc="}
+cookies信息已保存到本地
+开始爬取公众号：溯回文艺
+list index out of range
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

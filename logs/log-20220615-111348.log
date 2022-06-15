@@ -1,0 +1,87 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'pDK5DMuHc0bkOmBvAAAAAIYHruKwuutFO5YncvQMU5c='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': 'd9c6cc815e167d59b423f4a622e1c9e0'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'Z1h3aUNKTlF4NWNRUEhSUEFEQWJmQ0xnamM5bW1pVEFWNFQwYjZQY2did0ltV1dTazVjRlRHTUZSQXdSaDRIWHNzb215b0RPRFNLQmJSWEFkSld1SFJQMjUxQkNLTDJ5b3JmdTd2ZkhBT0NCSm5yUEExVGV1Sm9Qb0x6VU0zYkRCdVdxc3llU1hhVFdNcWE2'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '9c4e3e53afe4226cd254b805644e1756'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'F8Sz+684c3G6ZQ5mFWDTbiRBAWMU9nrwUwM76aOysl/jmtma5e5qx6oojFOJda9A'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454824, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55262854285849'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608471, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIMNXg4AygXXGl+YlzquX6W41bmRF+88QBjZpKjFP2cOc'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'pDK5DMuHc0bkOmBvAAAAAIYHruKwuutFO5YncvQMU5c=', 'xid': 'd9c6cc815e167d59b423f4a622e1c9e0', 'slave_sid': 'Z1h3aUNKTlF4NWNRUEhSUEFEQWJmQ0xnamM5bW1pVEFWNFQwYjZQY2did0ltV1dTazVjRlRHTUZSQXdSaDRIWHNzb215b0RPRFNLQmJSWEFkSld1SFJQMjUxQkNLTDJ5b3JmdTd2ZkhBT0NCSm5yUEExVGV1Sm9Qb0x6VU0zYkRCdVdxc3llU1hhVFdNcWE2', 'uuid': '9c4e3e53afe4226cd254b805644e1756', 'data_ticket': 'F8Sz+684c3G6ZQ5mFWDTbiRBAWMU9nrwUwM76aOysl/jmtma5e5qx6oojFOJda9A', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55262854285849', 'rand_info': 'CAESIMNXg4AygXXGl+YlzquX6W41bmRF+88QBjZpKjFP2cOc'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "pDK5DMuHc0bkOmBvAAAAAIYHruKwuutFO5YncvQMU5c=", "xid": "d9c6cc815e167d59b423f4a622e1c9e0", "slave_sid": "Z1h3aUNKTlF4NWNRUEhSUEFEQWJmQ0xnamM5bW1pVEFWNFQwYjZQY2did0ltV1dTazVjRlRHTUZSQXdSaDRIWHNzb215b0RPRFNLQmJSWEFkSld1SFJQMjUxQkNLTDJ5b3JmdTd2ZkhBT0NCSm5yUEExVGV1Sm9Qb0x6VU0zYkRCdVdxc3llU1hhVFdNcWE2", "uuid": "9c4e3e53afe4226cd254b805644e1756", "data_ticket": "F8Sz+684c3G6ZQ5mFWDTbiRBAWMU9nrwUwM76aOysl/jmtma5e5qx6oojFOJda9A", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55262854285849", "rand_info": "CAESIMNXg4AygXXGl+YlzquX6W41bmRF+88QBjZpKjFP2cOc"}
+cookies信息已保存到本地
+开始爬取公众号：溯回文艺
+历史文章总数为 32
+32
+正在翻页：-------------- 21
+20220615-111412
+获取到原创文章：|煮字|风与草 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483771&idx=1&sn=62c09fea30fce91da5770a1e4915b90f&chksm=fe7ad589c90d5c9fef12b48fd6c3bf41683221d23b1879fcab32fab2ea28a8271e185504caf3#rd
+获取到原创文章：|剧评|了不起的麦瑟尔夫人：理想爱情、破碎家庭与女人的喜剧 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483762&idx=1&sn=6b4546411c4f72df099b339b5c73eadb&chksm=fe7ad580c90d5c9675eafdc175bf9ac4655ed7bd2635d71d5e2e3c9907ac929f9e28d019cebb#rd
+获取到原创文章：|煮字| 1936（下） ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483747&idx=1&sn=e159ec6f53959257f135a3c63b64ff1e&chksm=fe7ad591c90d5c87e5e703c91e7e5f3cf20836012db3ee841f71e8951281d2e1bdc19536a033#rd
+获取到原创文章：|煮字|1936（中） ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483732&idx=1&sn=94825dce95f7764d47adf5328b3681e1&chksm=fe7ad5a6c90d5cb0c99019ba6b2a9a090add36b7eaa5e79864346f2365b98edad9ea43e83817#rd
+获取到原创文章：|煮字| 1936（上） ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483716&idx=1&sn=f8c24e3b2ce9badb2a97d43a6def16ef&chksm=fe7ad5b6c90d5ca03de5971157e1171ae30da47c3e0f1d4191b39706c25ca7e15e3ada7dc3ea#rd
+正在翻页：-------------- 26
+20220615-111521
+获取到原创文章：|聊书|陷于荒诞之外：《局外人》 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483701&idx=1&sn=21734c9e9e6ad15b2273bac39dc9fbcc&chksm=fe7ad5c7c90d5cd1779c3164170bcf6b52b2dbad7b8a03abe2554bba9835553b757bcc1ad27d#rd
+获取到原创文章：|电影|燃尽的灵魂：大红灯笼高高挂（妻妾成群） ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483694&idx=1&sn=c8d4870d62e41e5318e14399bdf84556&chksm=fe7ad5dcc90d5cca7b70ca93e882bfb09e13c3e13becf49724eafc42772b46c2ff6f1010d895#rd
+获取到原创文章：|聊书|短篇小说里折射的年代映像 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483685&idx=1&sn=95d430f59db0d2fbb86ffe20163de6d4&chksm=fe7ad5d7c90d5cc188cc02a1a9ed7e3211b4feaca902e4ee05c111eaf1e0ba4ebebe4e499fa8#rd
+获取到原创文章：分享图片 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483671&idx=1&sn=d1c39d0ca5d0f3088ccc15c76a7c661b&chksm=fe7ad5e5c90d5cf3f3470e0a40e0d40d3b61882586c697d370b5b9dcbd7e32a30cd27725a695#rd
+获取到原创文章：分享图片 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483669&idx=1&sn=7e6b47a0bcb529c40aad65baae822067&chksm=fe7ad5e7c90d5cf1ae8995bf1a1ec55a06b64f26fed766ecda9a257664ccd2f90ed465fa2f4d#rd
+正在翻页：-------------- 31
+20220615-111635
+获取到原创文章：|电影| 隔阂之蓝：阿黛尔的生活（Blue is the warmest color） ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483667&idx=1&sn=9b6078773d9f5a6691266d35e54e28e3&chksm=fe7ad5e1c90d5cf79bc3e98242950cf589457fc9e1600edecc6d2b426632dc06e86c0d3003e9#rd
+正在翻页：-------------- 36
+20220615-111733
+正在翻页：-------------- 41
+20220615-111823
+正在翻页：-------------- 46
+20220615-111914
+正在翻页：-------------- 51
+20220615-112004
+爬取完成
+开始爬取公众号：冷罐罐
+历史文章总数为 24
+24
+正在翻页：-------------- 21
+20220615-112059
+获取到原创文章：旧文 | 大厂寄生手记 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483763&idx=1&sn=1b2954c5bb7707d353ee72b2e0b051aa&chksm=c184f74cf6f37e5a2118047d19bca047c2294ff5449a99730f3653b66f1b6d07f8ade9c9891b#rd
+获取到原创文章：旧文 |《偶然与想象》为什么不够好 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483750&idx=1&sn=86cc0ae93681b56e98cb28ab8d3f1048&chksm=c184f759f6f37e4fbe3623ca23645b84816695f5e4c63451487f0fd495dcd58776bebaf30372#rd
+获取到原创文章：旧文 | 一个失恋者来到神父前 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483744&idx=1&sn=21369c4f36569098bc0ab389e262a349&chksm=c184f75ff6f37e49b4ccb85ea6ad4227f826686736cdb7c21aad885fcf16a9c1ed13f1fde83a#rd
+正在翻页：-------------- 26
+20220615-112205
+正在翻页：-------------- 31
+20220615-112255
+正在翻页：-------------- 36
+20220615-112345
+正在翻页：-------------- 41
+20220615-112436
+爬取完成
+开始爬取公众号：李镜合
+历史文章总数为 88
+88
+正在翻页：-------------- 21
+20220615-112530
+获取到原创文章：喂的鸡和遇见的猫 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484462&idx=1&sn=bc07ad3b58d5cae60613c50ba4c15511&chksm=fe58ce54c92f474201e032a6ee0367a7015e10d6c670274ee0b7332f046a03b94751e4648b30#rd
+获取到原创文章：我的月亮是一个量词 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484381&idx=1&sn=6f41ebe20de643392b625b28096f1cb6&chksm=fe58c9a7c92f40b16ed072396f20e5a65297e8664455ab3362e3ff3851d7e5ba7d1e64f8b8b5#rd
+获取到原创文章：我在她舌头上漂流的日子 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484369&idx=1&sn=3adf0c8ad605772affdd4c5977b1b02f&chksm=fe58c9abc92f40bd1c45e97e6e82f4ced3e34d5529ce8efef464a961b53e3919a5117a40dd74#rd
+获取到原创文章：博尔赫斯诗中的月亮·辑（1） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484360&idx=1&sn=bd863994f3ba462eeae83792e108c14d&chksm=fe58c9b2c92f40a40671e9824a381e9fa63af1802cf86311be244a627e8d6ecbbf00d760c2ef#rd
+获取到原创文章：因纽特村庄一日游with Carly's Walking Tour！ ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484355&idx=1&sn=ecbe0fb419c1fdd3ca480c3637e0ad51&chksm=fe58c9b9c92f40af3ce056d5c5112025dcfe9441b4c64d9ad4449455425e0c34fe56ae633c00#rd
+正在翻页：-------------- 26
+20220615-112656
+获取到原创文章：你豪，哉见！~ ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484280&idx=1&sn=31737b083c4ac67aa0682e6a8a62a906&chksm=fe58c902c92f40144e902c23eaaef1892521fd629cbc565365bab6bbeff86fe8664e4e7c10e2#rd
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 203, in <module>
+    get_content(query)
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 176, in get_content
+    pdfkit.from_url(content_link, dirs + content_title + '.pdf')
+  File "/Users/dip/opt/miniconda3/envs/TornadoCURD/lib/python3.7/site-packages/pdfkit/api.py", line 27, in from_url
+    return r.to_pdf(output_path)
+  File "/Users/dip/opt/miniconda3/envs/TornadoCURD/lib/python3.7/site-packages/pdfkit/pdfkit.py", line 197, in to_pdf
+    stdout, stderr = result.communicate(input=input)
+  File "/Users/dip/opt/miniconda3/envs/TornadoCURD/lib/python3.7/subprocess.py", line 964, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+  File "/Users/dip/opt/miniconda3/envs/TornadoCURD/lib/python3.7/subprocess.py", line 1715, in _communicate
+    ready = selector.select(timeout)
+  File "/Users/dip/opt/miniconda3/envs/TornadoCURD/lib/python3.7/selectors.py", line 415, in select
+    fd_event_list = self._selector.poll(timeout)
+KeyboardInterrupt

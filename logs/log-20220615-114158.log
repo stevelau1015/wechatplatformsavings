@@ -1,0 +1,49 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'w6S7IO0qxp4dgvAfAAAAAFjGZttFR_D5-uGx20vBsQE='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': 'a267966a93a0ecb12c50e530e7ec3a0a'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'MEIwWUdmQW8zMkNMQXZfMTdqRUZRb0RJRTc1SnRLUE1ZcXo0bThPWkhuc0JJUzBhYjczS0R1c09hY2lBVlRRSV81UGVQZHhybmhuQzJwcExhMEw3NWdEa1Z2cVoyejNqaEpnQ2YyZE13cVYzNm1SdzIyU1RMNVp3V3cwMkhMa0lMeW5TMDVqb3gxcTdYeDhX'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'b602b62f9261f32f9fd1e69e236eec11'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'woHTIwFIj4b5gXy9m1lrS2o5KsfmMLBpnt6IkVq8K3hpE7BQwzovoq6bP3P3i3G5'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454824, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55264545428828'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610172, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIJ2t1fA6l2xMiD9mXBY1oCoZ5+UWcTtBzBAkh7glr0Ta'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'w6S7IO0qxp4dgvAfAAAAAFjGZttFR_D5-uGx20vBsQE=', 'xid': 'a267966a93a0ecb12c50e530e7ec3a0a', 'slave_sid': 'MEIwWUdmQW8zMkNMQXZfMTdqRUZRb0RJRTc1SnRLUE1ZcXo0bThPWkhuc0JJUzBhYjczS0R1c09hY2lBVlRRSV81UGVQZHhybmhuQzJwcExhMEw3NWdEa1Z2cVoyejNqaEpnQ2YyZE13cVYzNm1SdzIyU1RMNVp3V3cwMkhMa0lMeW5TMDVqb3gxcTdYeDhX', 'uuid': 'b602b62f9261f32f9fd1e69e236eec11', 'data_ticket': 'woHTIwFIj4b5gXy9m1lrS2o5KsfmMLBpnt6IkVq8K3hpE7BQwzovoq6bP3P3i3G5', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55264545428828', 'rand_info': 'CAESIJ2t1fA6l2xMiD9mXBY1oCoZ5+UWcTtBzBAkh7glr0Ta'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "w6S7IO0qxp4dgvAfAAAAAFjGZttFR_D5-uGx20vBsQE=", "xid": "a267966a93a0ecb12c50e530e7ec3a0a", "slave_sid": "MEIwWUdmQW8zMkNMQXZfMTdqRUZRb0RJRTc1SnRLUE1ZcXo0bThPWkhuc0JJUzBhYjczS0R1c09hY2lBVlRRSV81UGVQZHhybmhuQzJwcExhMEw3NWdEa1Z2cVoyejNqaEpnQ2YyZE13cVYzNm1SdzIyU1RMNVp3V3cwMkhMa0lMeW5TMDVqb3gxcTdYeDhX", "uuid": "b602b62f9261f32f9fd1e69e236eec11", "data_ticket": "woHTIwFIj4b5gXy9m1lrS2o5KsfmMLBpnt6IkVq8K3hpE7BQwzovoq6bP3P3i3G5", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55264545428828", "rand_info": "CAESIJ2t1fA6l2xMiD9mXBY1oCoZ5+UWcTtBzBAkh7glr0Ta"}
+cookies信息已保存到本地
+开始爬取公众号：李镜合
+历史文章总数为 88
+88
+正在翻页：-------------- 14 / 88
+20220615-114233
+获取到原创文章：把2020年放在一起了 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484935&idx=1&sn=9835ae8bc4fb7204afade3cb23796f88&chksm=fe58cc7dc92f456b0349fc8b058cc12233eb37bea656112e61cd9d84fea279db805fc3cf9d51#rd
+获取到原创文章：我和乔治·奥威尔一样在餐厅洗过盘子 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484927&idx=1&sn=9c55f2108bd93b9e9bfc2169bbc6a093&chksm=fe58cf85c92f46934db5af4e2411502dbd8724f7de6a43e5492fa7cdc6851621e978a2dc7260#rd
+获取到原创文章：“一年从亚洲骑车到非洲，半年被疫情困在非洲” ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484905&idx=1&sn=2e22c10e28724a7654cc65ae3ddab867&chksm=fe58cf93c92f4685666a6ca3202f2eb22083f4100e4532039de9e8c5c7746926c7056b73d3bf#rd
+获取到原创文章：在古巴的时候（下） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484557&idx=1&sn=8f5c9b4d335ad7d7bf2c11a987ea66a7&chksm=fe58cef7c92f47e1d1293a01ccda263cd6fa19f0992f5b0cfc6db1c1102fad163a42365cd831#rd
+获取到原创文章：在古巴的时候 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484529&idx=1&sn=764d8f8b9af4e5c5358294732a27cc5c&chksm=fe58ce0bc92f471d98950b2e0609bd2ecbdce2043017e0c6036b1f339039848bc95dd6e347f5#rd
+正在翻页：-------------- 19 / 88
+20220615-114357
+获取到原创文章：回国的一个月：故乡的土 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484510&idx=1&sn=bcec64c60d35a0a4479f5638eae72759&chksm=fe58ce24c92f4732c349f629d8639fe8a5bb88a2a01ead52e66f5a9ff5d3fded4a3f4dd98476#rd
+获取到原创文章：在亚美尼亚和阿塞拜疆的时候 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484504&idx=1&sn=e5c92c70377484ca4fb6102d5b5d639c&chksm=fe58ce22c92f4734e7f7f5f1b1e2545cc826d8c97080d6b746eca5fe2c228d0cc95af2589c68#rd
+获取到原创文章：喂的鸡和遇见的猫 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484462&idx=1&sn=bc07ad3b58d5cae60613c50ba4c15511&chksm=fe58ce54c92f474201e032a6ee0367a7015e10d6c670274ee0b7332f046a03b94751e4648b30#rd
+获取到原创文章：我的月亮是一个量词 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484381&idx=1&sn=6f41ebe20de643392b625b28096f1cb6&chksm=fe58c9a7c92f40b16ed072396f20e5a65297e8664455ab3362e3ff3851d7e5ba7d1e64f8b8b5#rd
+获取到原创文章：我在她舌头上漂流的日子 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484369&idx=1&sn=3adf0c8ad605772affdd4c5977b1b02f&chksm=fe58c9abc92f40bd1c45e97e6e82f4ced3e34d5529ce8efef464a961b53e3919a5117a40dd74#rd
+正在翻页：-------------- 24 / 88
+20220615-114521
+获取到原创文章：博尔赫斯诗中的月亮·辑（1） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484360&idx=1&sn=bd863994f3ba462eeae83792e108c14d&chksm=fe58c9b2c92f40a40671e9824a381e9fa63af1802cf86311be244a627e8d6ecbbf00d760c2ef#rd
+获取到原创文章：因纽特村庄一日游with Carly's Walking Tour！ ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484355&idx=1&sn=ecbe0fb419c1fdd3ca480c3637e0ad51&chksm=fe58c9b9c92f40af3ce056d5c5112025dcfe9441b4c64d9ad4449455425e0c34fe56ae633c00#rd
+获取到原创文章：你豪，哉见！~ ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484280&idx=1&sn=31737b083c4ac67aa0682e6a8a62a906&chksm=fe58c902c92f40144e902c23eaaef1892521fd629cbc565365bab6bbeff86fe8664e4e7c10e2#rd
+获取到原创文章：在印度（3）：拉达克徒步 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484270&idx=1&sn=87ed4770365ed6a2416e297e2ec11ad2&chksm=fe58c914c92f4002cf8cf09a30037ebc0b6ff0358fd1730d47ba8842e6d338dca6d220eb6a89#rd
+获取到原创文章：斋月在土耳其（5）：路过布尔萨 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484229&idx=1&sn=0cfdb98f985fcc1a91e6a6dc01522389&chksm=fe58c93fc92f4029340d746b9d0519c0259281ee623c2ab93314db55735929f837b7c249f688#rd
+正在翻页：-------------- 29 / 88
+20220615-114655
+获取到原创文章：在印度（2）：从Keylong到列城 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484217&idx=1&sn=f715c2527099533da2fb60966b82870c&chksm=fe58c943c92f405595eb6922e77cb3c166a1c8a93f79dac6c0ce9b1181f2d32c103e013c18af#rd
+获取到原创文章：忒修斯的月亮 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484192&idx=1&sn=df28c3f0c6cce33f956c218ed7a54c82&chksm=fe58c95ac92f404c253578c5bad425179613cad1f0f9fc7b0c134db244ecba5c089edc635b9e#rd
+获取到原创文章：在印度（1）：从达兰萨拉到拉达克 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484186&idx=1&sn=3e8c6bc0089270303fa17871e85f711d&chksm=fe58c960c92f4076f3925b1d8c83376f9bda09fcb00f38ad660ba478a9453fef159137bbee0c#rd
+获取到原创文章：斋月在土耳其（4）：伊兹密尔，以弗所 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484173&idx=1&sn=5f0fd0ec8ac56f8da7ba43b5deca495e&chksm=fe58c977c92f40612b433ceefc114035c27899a00c31be4f8aa8cba7eb658febaeff9742ce88#rd
+获取到原创文章：图书馆里有只食字虫 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484137&idx=1&sn=66f7a11b09d66b4de836f6396c79931c&chksm=fe58c893c92f4185fc0a935934bb3308952d340707190b4a9fa8014cb6f6a9b9039e9b9375ab#rd
+正在翻页：-------------- 34 / 88
+20220615-114812
+wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

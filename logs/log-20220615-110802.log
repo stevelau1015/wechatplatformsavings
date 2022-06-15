@@ -1,0 +1,49 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'IXrYvrOUUNyygFDaAAAAAFnuGNVupjK8nJBZF701inI='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '0e4eb98ac350dc54588215e1b4e858a9'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'dW5Pb2RCNHpXeFVmU05OMGsyRFFLWGluS003VFE3ZDRaS3ljQkw3b1BMZXgxTkY0WEJ5Vmg1cjFnUFJVbmFNbDBIaENtVHh6SHdDVWRLblVMS2YzRmplbGNFQ2ZYVHlidnE4aENyUkVhcDZzdEZ0MTl4TnpscVM3Y2FDcFBHVkI3RFF6UnZiOUhIcVVvYkRC'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'e87cc18aacadfccfba9b64e9605fb296'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'P9NP6UEcNLi03Py6Kpnl9qhf4SctC9vbfFOrVC2XYPDhZFn9MNT8IBqJY6bnaVHX'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55262511822560'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655608129, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIPOGAmUbzUNGMlQlh2tHvFpK1ZB9Eh0p0ETKhemlOk/R'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'IXrYvrOUUNyygFDaAAAAAFnuGNVupjK8nJBZF701inI=', 'xid': '0e4eb98ac350dc54588215e1b4e858a9', 'slave_sid': 'dW5Pb2RCNHpXeFVmU05OMGsyRFFLWGluS003VFE3ZDRaS3ljQkw3b1BMZXgxTkY0WEJ5Vmg1cjFnUFJVbmFNbDBIaENtVHh6SHdDVWRLblVMS2YzRmplbGNFQ2ZYVHlidnE4aENyUkVhcDZzdEZ0MTl4TnpscVM3Y2FDcFBHVkI3RFF6UnZiOUhIcVVvYkRC', 'uuid': 'e87cc18aacadfccfba9b64e9605fb296', 'data_ticket': 'P9NP6UEcNLi03Py6Kpnl9qhf4SctC9vbfFOrVC2XYPDhZFn9MNT8IBqJY6bnaVHX', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55262511822560', 'rand_info': 'CAESIPOGAmUbzUNGMlQlh2tHvFpK1ZB9Eh0p0ETKhemlOk/R'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "IXrYvrOUUNyygFDaAAAAAFnuGNVupjK8nJBZF701inI=", "xid": "0e4eb98ac350dc54588215e1b4e858a9", "slave_sid": "dW5Pb2RCNHpXeFVmU05OMGsyRFFLWGluS003VFE3ZDRaS3ljQkw3b1BMZXgxTkY0WEJ5Vmg1cjFnUFJVbmFNbDBIaENtVHh6SHdDVWRLblVMS2YzRmplbGNFQ2ZYVHlidnE4aENyUkVhcDZzdEZ0MTl4TnpscVM3Y2FDcFBHVkI3RFF6UnZiOUhIcVVvYkRC", "uuid": "e87cc18aacadfccfba9b64e9605fb296", "data_ticket": "P9NP6UEcNLi03Py6Kpnl9qhf4SctC9vbfFOrVC2XYPDhZFn9MNT8IBqJY6bnaVHX", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55262511822560", "rand_info": "CAESIPOGAmUbzUNGMlQlh2tHvFpK1ZB9Eh0p0ETKhemlOk/R"}
+cookies信息已保存到本地
+开始爬取公众号：溯回文艺
+历史文章总数为 32
+32
+正在翻页：-------------- 0
+20220615-110830
+获取到原创文章：|聊书| 罗淑：我祝福这了解生活的人们 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483971&idx=1&sn=8e047bde560c9617128c764d8b5bf134&chksm=fe7ad6b1c90d5fa7093fced1b3736bc1d0588723b6a363a6b9e18f8c7b420532edef78770d3d#rd
+获取到原创文章：结 伴 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483966&idx=1&sn=5664c9f57b5ee677ab6ab50a798704c4&chksm=fe7ad6ccc90d5fdaeef6798fcf88727953a38cd88971af9fefa5a57416d1f0cae3872187b333#rd
+获取到原创文章：关灯清醒造梦 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483961&idx=1&sn=1f3a72dde70f3eb699cb59f0a3acf596&chksm=fe7ad6cbc90d5fdd57f193e6ff363193ecf09bc06c2aed6708110bc2683587d4b469dc42be5a#rd
+获取到原创文章：|聊书|卡门：群体化爱情观与个体化爱情观之冲突 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483948&idx=1&sn=a6e3ddb3440c6eff36f11dd8e14ac5fa&chksm=fe7ad6dec90d5fc838c2744e5baa2ba4ce856a6166a46d6e3b4a14a4076fd559f2304cfefc56#rd
+获取到原创文章：|聊书|金牧场：不甘蛰伏于僵死的大地 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483943&idx=1&sn=715efd676ea2165761694edc5c03c1d4&chksm=fe7ad6d5c90d5fc32f5671f26400e9fd843500c6e310446f0bafc85f9728980acec3b34caf35#rd
+正在翻页：-------------- 5
+20220615-110938
+获取到原创文章：|煮字|夜间奔逃 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483866&idx=1&sn=12f983c9d727b8c6bcb93567af191432&chksm=fe7ad528c90d5c3ef0afc2acf7e41d8d66076864282b4b1ca0fb19a87ed14b05ad57ab61ef59#rd
+获取到原创文章：|电影| 燃烧女子的肖像：以诗性的告别 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483860&idx=1&sn=b59e91184e4f54ddf7c8787485077d12&chksm=fe7ad526c90d5c3088c4d164b1e57ed6dc60a50ac6b8966cd9d82a7c4ffa5716f32b957414c7#rd
+获取到原创文章：|煮字|群鸟往事 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483856&idx=1&sn=43187d953c529c6934bde84d7f6df1b8&chksm=fe7ad522c90d5c344d4734c262d80f669eb9b76d808735a4512c4c35b60c2a96b7c7869d96f5#rd
+获取到原创文章：|聊书|长恨歌：天长地久有时尽 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483847&idx=1&sn=56bc7402b740dbf50ebc0037f556bc52&chksm=fe7ad535c90d5c23fbcbb24f8f6f1c0b02884e463aae69353ef4345105146d8f6a26702b74f7#rd
+获取到原创文章：|煮字|Romantic Story ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483841&idx=1&sn=93386c35e55c2088169d42836afb376c&chksm=fe7ad533c90d5c250ed93f043a26b3e017c2d02389497149f4a86b527c4cd0d97f4456e4e65d#rd
+正在翻页：-------------- 10
+20220615-111052
+获取到原创文章：|聊书|于寂寞之井中呼号 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483833&idx=1&sn=933f50b7ea500f042850caa69f774457&chksm=fe7ad54bc90d5c5d559c701088d97a94e09ba5deda7342e05bbeef84480a72f405381d49dafd#rd
+获取到原创文章：荒原幻想. ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483827&idx=1&sn=b1fbeb1959c3740e7d3fe1d8f6528a28&chksm=fe7ad541c90d5c5704bfe2e1d3d1114a0ef9fcc128fa661ce0724e0b0cecd0e510cda0d39bfc#rd
+获取到原创文章：无声相逢. ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483824&idx=1&sn=05e733395774568ed775b54d55639eb5&chksm=fe7ad542c90d5c541619129661ef308093c0beb055001f2b04ee0a41c0b3595f35140254e265#rd
+获取到原创文章：|煮字|霁月二三事 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483822&idx=1&sn=91d7edf4503954effd6355711e6ab350&chksm=fe7ad55cc90d5c4a8aa75339131bf0bb5f02e5c28296e1ff7c81f0cf9def9d45c22b903c1a5c#rd
+获取到原创文章：|聊书|金色梦乡里的正义伙伴 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483816&idx=1&sn=9a443cd4f0142cb6ce106e26685746e7&chksm=fe7ad55ac90d5c4cec1694a6bbf9894b9066bed37de0777877289c421af630e1a634b830c343#rd
+正在翻页：-------------- 15
+20220615-111200
+获取到原创文章：故事有关于阿尔伽玛。 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483808&idx=1&sn=3bde1be688e7336444b8ab601780b8aa&chksm=fe7ad552c90d5c44a4f5b059f12402fc9bd057e5beca58057099c3914602c247cf5a296c96e7#rd
+获取到原创文章：| 聊书 | 卡门：自由的信徒与亡者 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483804&idx=1&sn=6d56a7284ce4a1fa614053405218f840&chksm=fe7ad56ec90d5c78b3ec35fe6c6663cc61c8c30d8005c7cf189b7ca1a5a6f42d735c83622a2b#rd
+获取到原创文章：分享图片 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483795&idx=1&sn=ae8e3424f8140e8e8c1f3bead79f351b&chksm=fe7ad561c90d5c778fe6ed7f1994b1139e45f3cc8fcbb5aac8d90caeadf0022895b5fd96c200#rd
+获取到原创文章：分享图片 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483793&idx=1&sn=d2b0e5054a7cd0a5a248c060260f4960&chksm=fe7ad563c90d5c757e5d557f10f99ed84cd3677620a7c4f53f696cc5bfec95f0bd4afeb2bcc7#rd
+获取到原创文章：|煮字|黄昏 ： http://mp.weixin.qq.com/s?__biz=MzU5NDgwNjE3Mw==&mid=2247483791&idx=1&sn=8c909fdcf54b43043dccc505235aaa80&chksm=fe7ad57dc90d5c6b7e242f3dd501e308deded1921943f74f4ffe109d33d15d562d32e979ceb7#rd
+正在翻页：-------------- 20
+20220615-111308
+wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

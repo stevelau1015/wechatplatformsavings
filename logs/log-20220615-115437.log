@@ -1,0 +1,67 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'uSC4E3BKTHey1MRyAAAAABhas46ZUIY84FgYimDFQWo='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '951c752339f8b67fb46dcec4774cba32'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'Q0oyblcwTXFNNUpDdlZnWTF0clBEWGlma3ZVak8wX1VvNHhWVFpZckhCNTFVVjlvRWIxSWR4SHIyaGxnVW1ZZ3h0WVpiZ3JoZ0hFbVc4WFBWSGxXT3hDTEdQUll0Q0R0eXZZMzh6Q09IRTNlODJROElQZFJyZ0dvQ2lPZHhzeE1VWGJUYjFvaFRaSzFTcDRE'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '364cc56f2fa069356b1f139dfc7de529'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'F4tR20VGiSUO4YnntiqWNA/GqXnIKKLY20v5KQ+7RRXc2BBp+bVGoQ8S/lzta3B0'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55265304808100'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610931, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIBT9+PUa7oWxxSvIXxFfWk205bxW70XO51g+YwRONtxe'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'uSC4E3BKTHey1MRyAAAAABhas46ZUIY84FgYimDFQWo=', 'xid': '951c752339f8b67fb46dcec4774cba32', 'slave_sid': 'Q0oyblcwTXFNNUpDdlZnWTF0clBEWGlma3ZVak8wX1VvNHhWVFpZckhCNTFVVjlvRWIxSWR4SHIyaGxnVW1ZZ3h0WVpiZ3JoZ0hFbVc4WFBWSGxXT3hDTEdQUll0Q0R0eXZZMzh6Q09IRTNlODJROElQZFJyZ0dvQ2lPZHhzeE1VWGJUYjFvaFRaSzFTcDRE', 'uuid': '364cc56f2fa069356b1f139dfc7de529', 'data_ticket': 'F4tR20VGiSUO4YnntiqWNA/GqXnIKKLY20v5KQ+7RRXc2BBp+bVGoQ8S/lzta3B0', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55265304808100', 'rand_info': 'CAESIBT9+PUa7oWxxSvIXxFfWk205bxW70XO51g+YwRONtxe'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "uSC4E3BKTHey1MRyAAAAABhas46ZUIY84FgYimDFQWo=", "xid": "951c752339f8b67fb46dcec4774cba32", "slave_sid": "Q0oyblcwTXFNNUpDdlZnWTF0clBEWGlma3ZVak8wX1VvNHhWVFpZckhCNTFVVjlvRWIxSWR4SHIyaGxnVW1ZZ3h0WVpiZ3JoZ0hFbVc4WFBWSGxXT3hDTEdQUll0Q0R0eXZZMzh6Q09IRTNlODJROElQZFJyZ0dvQ2lPZHhzeE1VWGJUYjFvaFRaSzFTcDRE", "uuid": "364cc56f2fa069356b1f139dfc7de529", "data_ticket": "F4tR20VGiSUO4YnntiqWNA/GqXnIKKLY20v5KQ+7RRXc2BBp+bVGoQ8S/lzta3B0", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55265304808100", "rand_info": "CAESIBT9+PUa7oWxxSvIXxFfWk205bxW70XO51g+YwRONtxe"}
+cookies信息已保存到本地
+开始爬取公众号：李镜合
+历史文章总数为 88
+88
+正在翻页：-------------- 35 / 88
+20220615-115512
+获取到原创文章：You have to defend for nothing ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484127&idx=1&sn=91ff4da66c684b7eb7e9a6a4e9a7d821&chksm=fe58c8a5c92f41b3fa53c71a5b39bb9d61ce52ae88a828a03b3c88cf5c7f0c2e8e50a1f4127b#rd
+获取到原创文章：致批评我双标的一位豆瓣友邻 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484126&idx=1&sn=fd2cc92599e60da435839706062b8af1&chksm=fe58c8a4c92f41b25298186b887db5747eabacc150d701730d539cf531f5e9ed72ea58232597#rd
+获取到原创文章：致批评我双标的一位豆瓣友邻 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484114&idx=1&sn=d2ea6202061f5d8f1243a74d8feda695&chksm=fe58c8a8c92f41be6bbec18483a69a22ec82f9ff14ae705ff540a029fe6b686ca2b8e0e66f5f#rd
+获取到原创文章：豆瓣被禁言了七天，就有可能这几天在公众号这里啰嗦，如果我还想有的说的话 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484097&idx=1&sn=eb737d3db81e4ae2a66e28140a1073e2&chksm=fe58c8bbc92f41ad6795e76b2845ff86ea5c702444ec3a99f19de2b4a8e60d1f6533b9a2e438#rd
+获取到原创文章：斋月在土耳其（3）：孔亚，苏菲主义，朋友们 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484096&idx=1&sn=1f7988085a7b1f9830e841f2588c19b3&chksm=fe58c8bac92f41ac58dd9c4bd9fb04da756211393fd03f691c741c735396cdaefb993cd1da38#rd
+正在翻页：-------------- 40 / 88
+20220615-115626
+获取到原创文章：斋月在土耳其（2）：锡瓦斯，卡帕多西亚 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484088&idx=1&sn=d1441016e8a457a3e10a22d8fabaa865&chksm=fe58c8c2c92f41d46eda55dc5e3029f41831ee51e2bbcd42e90dae677b12bf8fa1803352de44#rd
+获取到原创文章：斋月在土耳其（1） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484058&idx=1&sn=a222ab8feab4e8e479b5d11634b697d3&chksm=fe58c8e0c92f41f6a499074a2235b1ec06cd45cb618cf9320f4bb7d2ec234289620389aeb182#rd
+获取到原创文章：我也很想Tana ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484045&idx=1&sn=0978ff3068fa791dc4b697bd5ac31a75&chksm=fe58c8f7c92f41e1b7cb08d60cdc0f82f7969bdec998ed02675538f47b657802ac079d3b47d6#rd
+获取到原创文章：我的新西兰室友 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484039&idx=1&sn=946e4f8477765ed584fb9c30fbdd3f1a&chksm=fe58c8fdc92f41eb56f2496b560ae9ffcf280179da1bc515c7ac8d6123981ce72a46cec3746d#rd
+获取到原创文章：One Night Stand ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484033&idx=1&sn=ee36d4954005357be17c4ee090ad2110&chksm=fe58c8fbc92f41eda8e171dc2d455d4ab83155b58bdb7e80146405e319c1b2842273350c01ad#rd
+正在翻页：-------------- 45 / 88
+20220615-115741
+获取到原创文章：“爹你喝多了，爹你炒比特币到底赔没赔?” ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484028&idx=1&sn=beef788020602c87fd21059cfca319e0&chksm=fe58c806c92f4110d7dc6458d906da52f8e172858fe10b624325b02592d5e74eb4c0906ab3f0#rd
+获取到原创文章：我穿越过的边境们 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484023&idx=1&sn=92a6bfd6316e79ea4978faf856b23042&chksm=fe58c80dc92f411ba9d33cc19a6676a44fc8a846a71069fd1b1bd0bde2cbce759efb2fe896fc#rd
+获取到原创文章：海洋的时光 The sea is calling ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484014&idx=1&sn=835b26a98a134ed00b7481ef0966dfe7&chksm=fe58c814c92f4102bdf5056b52729304e849b029154c4c960f86ccaa7e8692af84b50c56ad55#rd
+获取到原创文章：海没有另一边 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483972&idx=1&sn=87cde550c54d3d059f64fd71373aa69c&chksm=fe58c83ec92f412820643988fdb6a664457489fb086d294c2a1dc09e7ecc1624be28e93c5880#rd
+获取到原创文章：就是有没完没了的猫 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483942&idx=1&sn=f60d36b3b8fd34829c0a371cb1cbe088&chksm=fe58c85cc92f414a3a184eabf47b51561fbb7c6f35ee2f1fa839c70d04407352fe7f9e89ff21#rd
+正在翻页：-------------- 50 / 88
+20220615-115858
+获取到原创文章：起猫球的回忆 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483915&idx=1&sn=beec3030fcbc8479ab3a1f3f496c23c1&chksm=fe58c871c92f4167f5fb6beb57eaea4341a1965614fcde7dfe3fb4f9719a7c0f966b8a45488f#rd
+获取到原创文章：一生熊命頑張る ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483897&idx=1&sn=c9b33c7487f021bc062280b1492e1073&chksm=fe58cb83c92f4295a43fac0b934d05c90749316c4463821f5b09f0376815a877dd85148875a0#rd
+获取到原创文章：企鹅行状录 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483889&idx=1&sn=32eddb1d5e68e0f65756e7482a9e48c6&chksm=fe58cb8bc92f429daa8146848d99e7b4f5ad13943fb53835e32ed81a941625f8d327dac912bd#rd
+获取到原创文章：在伊朗的一个月 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483849&idx=1&sn=15a29ad00ab8c5d22c106a9ddba4876e&chksm=fe58cbb3c92f42a5e05cff6d1aed5fc191ed997cebfe01d0860506dd89ca7f654329c7d9a905#rd
+获取到原创文章：2019年旅途中遇到的一些人 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483844&idx=1&sn=0031abba221ee137fce0a9829485454a&chksm=fe58cbbec92f42a881d74705bac71ebeb203ce08e59326053db9539afaf778d071e3a12ef424#rd
+正在翻页：-------------- 55 / 88
+20220615-120019
+获取到原创文章：我们必须用猫上网的时代 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483839&idx=1&sn=e3d91fd4d090a1b14d10b329ee44ebfa&chksm=fe58cbc5c92f42d3cfbe9d50a6fc4b6219a3a721f788da74cefb7b00b3d085ef701db731983c#rd
+获取到原创文章：阿布因为颈椎问题常常仰头往上看 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483834&idx=1&sn=1d3b1156bdf8f0e371283adf08c0eab1&chksm=fe58cbc0c92f42d6c24803448490a4e1f1cf5da1578362e5adf7460b217e15d8e50c44f9fd99#rd
+获取到原创文章：伊朗：一些正在离开的年轻人 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483829&idx=1&sn=5ed990b6750c33fa4a0df3f52c3c7b57&chksm=fe58cbcfc92f42d907721ddd107b99bb2713dabdf1ea0c371c7c908cc1f7490f02b33fb884e1#rd
+获取到原创文章：台湾搭车环岛流水账（下） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483824&idx=1&sn=678141c96c45120fe8a4cb72c7318000&chksm=fe58cbcac92f42dcd04e730408c28b382d8a7cadad72f4901f46075c8e556150ca78590f86f5#rd
+获取到原创文章：台湾搭车环岛流水账（上） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483820&idx=1&sn=59f6ffbd0d619c045b0ea42c219b64e7&chksm=fe58cbd6c92f42c0df35001ac216664289145cf93665a9dd691bb58057f375dcacb0dc335eaf#rd
+正在翻页：-------------- 60 / 88
+20220615-120131
+获取到原创文章：​Naomi，关心一下全球变暖问题 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483814&idx=1&sn=4a5dd0962c5b013ad4a9a2b004a12f8b&chksm=fe58cbdcc92f42ca12c4a44ab21b7ef9529c6c5468a3a43b038bd5e2cb5e5acd97a8c6cbcaad#rd
+获取到原创文章：分享图片 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483809&idx=1&sn=0b6401aa6228ea39189af1017c99da77&chksm=fe58cbdbc92f42cdc996f8c3db1fe38a93808a549809339438a52179d3320eb94c581a280fe8#rd
+获取到原创文章：可她实在太困了 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483806&idx=1&sn=d69a55e8fda2984a111d910ea5e2dd50&chksm=fe58cbe4c92f42f20a7e450aec24f277b3b06c0764d8197b9f3fa2ef4b87603ffcd5512f784d#rd
+获取到原创文章：一只有奇怪拇指的浣熊 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483800&idx=1&sn=293a9ed7606bf216f90ce62d8e5c7d09&chksm=fe58cbe2c92f42f41efb74a7e76ac64756fd34588e986f42a2e0d18719283e445787cd48822f#rd
+获取到原创文章：一战和波罗的海的国家立陶宛 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483792&idx=1&sn=8d905e8689f13e2d996f1e19e89c169e&chksm=fe58cbeac92f42fc157c489920ff74de6f2cb46f26fe75aed5abae33d609aeb96b89e77e2ea2#rd
+正在翻页：-------------- 65 / 88
+20220615-120239
+获取到原创文章：近乎无限透明的人 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483783&idx=1&sn=fcac99497c1c744c24e5c0cb4e8b51cf&chksm=fe58cbfdc92f42eba4dc06dffe059193efb2ba55351af809c99397f170ba013baa0083f4a60b#rd
+获取到原创文章：阿卡迪亚，一次搭车旅途的记忆 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483776&idx=1&sn=96496988913359d4ad30e3b0237cf864&chksm=fe58cbfac92f42ec90bf63b0644bdf2afe02e0e429c300b8946fe5c62bcf9bade2ffa17132ce#rd
+获取到原创文章：如果能再死一次 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483773&idx=1&sn=0e843f2f61c288c18a5685d56781e6a7&chksm=fe58cb07c92f421109f3e14db619a281f08ce223b6a421b49d0e0e49358a3e71a15e8aaf8f1c#rd
+获取到原创文章：首字母H发音是否重要呢？姥姥和外婆又哪个好呢？ ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247483769&idx=1&sn=f01662c152ced79fbde4050ab0785c19&chksm=fe58cb03c92f4215c3697808a06ca94b8382b41242d0de088b2483b34f398c32f8bbe61e8b67#rd
+wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

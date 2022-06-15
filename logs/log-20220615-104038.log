@@ -1,0 +1,23 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'N33s2xrXc5zzXgT0AAAAAKJav7Fh8LcpJ6XenJBZyO0='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '36d5adb4fbe6a3f660850d66c48d0d92'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'Z3hIcW0yVGVpa0lSeEN5c2hFRXIzV1FTM2l0cDZhakR3c3prVEZnSUhpNkpBem5tRUJwY0kzVlpzWFVyZGdjN3l0ZDl3bE9DZDd3SUZBemdZbE5pTmpuR2VJa09RQk9nMDlLZ2ZUQTY4UDFlcUpDZmVaSnl2cng1UnR4aFhYUHAyS2ZyRDYxYjJiN25QZ3Nz'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '9030c380d2d9b64104dfb0b52f14a345'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'dQiyHM5/cqifxeYSSxWvqjN9qFmEkOc+m4Ttm7M3vOpis0seXkjRGhIxAa7gVumc'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55260865801262'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606482, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIEQrewyhQhaEQD9fiNt9odGcXfPGyNAxRwCKoslvtrzc'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'N33s2xrXc5zzXgT0AAAAAKJav7Fh8LcpJ6XenJBZyO0=', 'xid': '36d5adb4fbe6a3f660850d66c48d0d92', 'slave_sid': 'Z3hIcW0yVGVpa0lSeEN5c2hFRXIzV1FTM2l0cDZhakR3c3prVEZnSUhpNkpBem5tRUJwY0kzVlpzWFVyZGdjN3l0ZDl3bE9DZDd3SUZBemdZbE5pTmpuR2VJa09RQk9nMDlLZ2ZUQTY4UDFlcUpDZmVaSnl2cng1UnR4aFhYUHAyS2ZyRDYxYjJiN25QZ3Nz', 'uuid': '9030c380d2d9b64104dfb0b52f14a345', 'data_ticket': 'dQiyHM5/cqifxeYSSxWvqjN9qFmEkOc+m4Ttm7M3vOpis0seXkjRGhIxAa7gVumc', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55260865801262', 'rand_info': 'CAESIEQrewyhQhaEQD9fiNt9odGcXfPGyNAxRwCKoslvtrzc'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "N33s2xrXc5zzXgT0AAAAAKJav7Fh8LcpJ6XenJBZyO0=", "xid": "36d5adb4fbe6a3f660850d66c48d0d92", "slave_sid": "Z3hIcW0yVGVpa0lSeEN5c2hFRXIzV1FTM2l0cDZhakR3c3prVEZnSUhpNkpBem5tRUJwY0kzVlpzWFVyZGdjN3l0ZDl3bE9DZDd3SUZBemdZbE5pTmpuR2VJa09RQk9nMDlLZ2ZUQTY4UDFlcUpDZmVaSnl2cng1UnR4aFhYUHAyS2ZyRDYxYjJiN25QZ3Nz", "uuid": "9030c380d2d9b64104dfb0b52f14a345", "data_ticket": "dQiyHM5/cqifxeYSSxWvqjN9qFmEkOc+m4Ttm7M3vOpis0seXkjRGhIxAa7gVumc", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55260865801262", "rand_info": "CAESIEQrewyhQhaEQD9fiNt9odGcXfPGyNAxRwCKoslvtrzc"}
+cookies信息已保存到本地
+开始爬取公众号：沙漏狗shallowdog
+历史文章总数为 51
+51
+正在翻页：-------------- 82
+20220615-104103
+/Users/dip/PycharmProjects/mywechatsavings/main.py:51: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 204, in <module>
+    get_content(query)
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 182, in get_content
+    time.sleep(50)
+KeyboardInterrupt

@@ -1,0 +1,23 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'ycqhXGy6YOoryfjnAAAAAEAIiU_BL93ig7YVxb5eWNY='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '213d1bfd078b54966dac18311044d67d'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'WlhwSW9Cbm9qMklVdW5MbmhDZ1puakl4cnBBbkk2TkFPWUtWR084bVpYbkRlMEtNN0NKVVhJMTg0OFUweG5UX18zVk1mNUViZ0wxYkZFMjIxSlppTGx4Z2Y1ZXBFd3BOdEh6Q2ZlblRpU1Z3ZlFDYmw2NGZEY3g1NTJsYWl4MEtjSmE4TE5ZNjF3aVBSY0Zp'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '1b66071d8b1023fe2237b6524c49e1b4'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'qgGB7+9kogt8wOhCrb81Fk8UkzVoGdbFHtMwv5nPU3y3HkHdQDckrqGYij1DVF0t'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55264391725322'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655610019, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIFHTVh1wQLuuT3nyewIhjud/3+nJRBTcFapyOwCKmj/N'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'ycqhXGy6YOoryfjnAAAAAEAIiU_BL93ig7YVxb5eWNY=', 'xid': '213d1bfd078b54966dac18311044d67d', 'slave_sid': 'WlhwSW9Cbm9qMklVdW5MbmhDZ1puakl4cnBBbkk2TkFPWUtWR084bVpYbkRlMEtNN0NKVVhJMTg0OFUweG5UX18zVk1mNUViZ0wxYkZFMjIxSlppTGx4Z2Y1ZXBFd3BOdEh6Q2ZlblRpU1Z3ZlFDYmw2NGZEY3g1NTJsYWl4MEtjSmE4TE5ZNjF3aVBSY0Zp', 'uuid': '1b66071d8b1023fe2237b6524c49e1b4', 'data_ticket': 'qgGB7+9kogt8wOhCrb81Fk8UkzVoGdbFHtMwv5nPU3y3HkHdQDckrqGYij1DVF0t', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55264391725322', 'rand_info': 'CAESIFHTVh1wQLuuT3nyewIhjud/3+nJRBTcFapyOwCKmj/N'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "ycqhXGy6YOoryfjnAAAAAEAIiU_BL93ig7YVxb5eWNY=", "xid": "213d1bfd078b54966dac18311044d67d", "slave_sid": "WlhwSW9Cbm9qMklVdW5MbmhDZ1puakl4cnBBbkk2TkFPWUtWR084bVpYbkRlMEtNN0NKVVhJMTg0OFUweG5UX18zVk1mNUViZ0wxYkZFMjIxSlppTGx4Z2Y1ZXBFd3BOdEh6Q2ZlblRpU1Z3ZlFDYmw2NGZEY3g1NTJsYWl4MEtjSmE4TE5ZNjF3aVBSY0Zp", "uuid": "1b66071d8b1023fe2237b6524c49e1b4", "data_ticket": "qgGB7+9kogt8wOhCrb81Fk8UkzVoGdbFHtMwv5nPU3y3HkHdQDckrqGYij1DVF0t", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55264391725322", "rand_info": "CAESIFHTVh1wQLuuT3nyewIhjud/3+nJRBTcFapyOwCKmj/N"}
+cookies信息已保存到本地
+开始爬取公众号：李镜合
+历史文章总数为 88
+88
+正在翻页：-------------- 10 / 17
+20220615-113959
+获取到原创文章：冬天的窗外 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484966&idx=1&sn=fce9773ee0d4864e718c87d9ba93cd0b&chksm=fe58cc5cc92f454aa885ce4a478bb217f72862ab19273061e7731b63d5fca78e66181e70faaa#rd
+获取到原创文章：做了个菜的 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484946&idx=1&sn=09ee1f1950687b148da2973793f87651&chksm=fe58cc68c92f457e7d49992529c352bd44d78c57f8402dd02a0a1bfb90e03fe9a11554713d33#rd
+获取到原创文章：银行企鹅柜员的时间（就来测试下公众号审核如何） ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484941&idx=1&sn=a2394a08ca27330f0849aa88c4f6ae01&chksm=fe58cc77c92f45610d99ea484022844e25593512180932e7037980ae3a787db204ca427f2ee2#rd
+wkhtmltopdf reported an error:
+Exit with code 1 due to network error: ContentNotFoundError
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

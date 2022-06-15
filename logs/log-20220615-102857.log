@@ -1,0 +1,36 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': '2VlbbVBtMJDLYGyhAAAAAPeHY5Pv4aN4vEeq3p3t_6s='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '44ada15bae2fbbeee5d5e2bfc7f48f87'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'c0JnQmJhdzNZckkxZWJ2dUhQSDYyN29vRzd0Z1Rnb25DQzh5SXJFZlV5T1BEZ0tOZjJGMzJ0Z3lkV1UxbThLOXJpRjhuYXd1cDFYRHA4NVhZMjgwbnhQRGVqYVlmM1ZwSHNqYXdraHhQdXlmOHNQVzNTc3hWSkFLWkhNa1hZTnJzVHdQRVhEeEozWHFwTUFH'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '7f421aa9cf5ac462b8e461bf919ba853'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'SHO25nDBTwug7JVZRZ2HLJZ6ubajRZHGdWEbhcO/QVfDcXWSJ1vXB8YFVnRMJHQZ'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454824, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55260163399188'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655605780, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESILGe2Enp2dhIihJR376UxIEjIQcSPxzt8peUC3Lmbm3w'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': '2VlbbVBtMJDLYGyhAAAAAPeHY5Pv4aN4vEeq3p3t_6s=', 'xid': '44ada15bae2fbbeee5d5e2bfc7f48f87', 'slave_sid': 'c0JnQmJhdzNZckkxZWJ2dUhQSDYyN29vRzd0Z1Rnb25DQzh5SXJFZlV5T1BEZ0tOZjJGMzJ0Z3lkV1UxbThLOXJpRjhuYXd1cDFYRHA4NVhZMjgwbnhQRGVqYVlmM1ZwSHNqYXdraHhQdXlmOHNQVzNTc3hWSkFLWkhNa1hZTnJzVHdQRVhEeEozWHFwTUFH', 'uuid': '7f421aa9cf5ac462b8e461bf919ba853', 'data_ticket': 'SHO25nDBTwug7JVZRZ2HLJZ6ubajRZHGdWEbhcO/QVfDcXWSJ1vXB8YFVnRMJHQZ', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55260163399188', 'rand_info': 'CAESILGe2Enp2dhIihJR376UxIEjIQcSPxzt8peUC3Lmbm3w'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "2VlbbVBtMJDLYGyhAAAAAPeHY5Pv4aN4vEeq3p3t_6s=", "xid": "44ada15bae2fbbeee5d5e2bfc7f48f87", "slave_sid": "c0JnQmJhdzNZckkxZWJ2dUhQSDYyN29vRzd0Z1Rnb25DQzh5SXJFZlV5T1BEZ0tOZjJGMzJ0Z3lkV1UxbThLOXJpRjhuYXd1cDFYRHA4NVhZMjgwbnhQRGVqYVlmM1ZwSHNqYXdraHhQdXlmOHNQVzNTc3hWSkFLWkhNa1hZTnJzVHdQRVhEeEozWHFwTUFH", "uuid": "7f421aa9cf5ac462b8e461bf919ba853", "data_ticket": "SHO25nDBTwug7JVZRZ2HLJZ6ubajRZHGdWEbhcO/QVfDcXWSJ1vXB8YFVnRMJHQZ", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55260163399188", "rand_info": "CAESILGe2Enp2dhIihJR376UxIEjIQcSPxzt8peUC3Lmbm3w"}
+cookies信息已保存到本地
+开始爬取公众号：陈同学在搬砖
+历史文章总数为 87
+87
+正在翻页：-------------- 71
+20220615-102920
+获取到原创文章：小白也能看懂的poll源码解析 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485740&idx=1&sn=839a41dc0b9afdbb1f61b919daab1e6b&chksm=c293cb7cf5e4426ac03bfd1b3d04a714c04c8034d560e8b5113b9803e247edcbe933acab507d#rd
+获取到原创文章：可能是全网最全的select讲解 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485739&idx=1&sn=7e8a0204278b6beefa8a1b0bf9e955c1&chksm=c293cb7bf5e4426da60db7bf8a63d64916bb346ddf81bfdf6ad0535340d161e6607cb21ef384#rd
+获取到原创文章：1个小时学会所有Linux核心命令 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485738&idx=1&sn=b69294f6eb24c66b2c3790b790823f8c&chksm=c293cb7af5e4426c4f9bf2ac47d771365721704ac114ac5512bb71b0db652e570e0f3eaa6db3#rd
+获取到原创文章：一个后台开发工程师必须掌握的那些Linux命令－－性能监测篇 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485737&idx=1&sn=5d17bd174dcd54e08de03801ab52ca1b&chksm=c293cb79f5e4426fde64bfcd55cf3eedc411fda8d36eb7f06b63abbd5f493cd45665db11a8a2#rd
+获取到原创文章：一个小时学会Git ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485736&idx=1&sn=a7b953b806c6b3528ff4058b416fa3ad&chksm=c293cb78f5e4426e27735e2126cdc2c437d33aca9ab1bd0e6a8b2218271ac03d76f216907766#rd
+正在翻页：-------------- 76
+20220615-103034
+获取到原创文章：女朋友也能看懂的TLS技术讲解 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485735&idx=1&sn=892f89b72ce7f3125d36cebd4fe6a1e0&chksm=c293cb77f5e44261e4c91f73c3d8e436ff8813a0e7da5cf5df100b622bcaee945ff61a4a8298#rd
+获取到原创文章：你的微信消息是怎么发出去的? ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485734&idx=1&sn=9ee0f58b3a6c9234ca18d8301696d208&chksm=c293cb76f5e442604047b6dd29ceca0e4e8266fe4737331bd30ea87496dfe37b9b002525e79e#rd
+获取到原创文章：后台开发必看！ ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485733&idx=1&sn=bb586b06fa64ee6f6b060a84f9533953&chksm=c293cb75f5e4426342057d79ede40c8a494457c887edcd537d2350d245274357eebad0142719#rd
+获取到原创文章：Leetcode面试高频题汇总--贪心 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485732&idx=1&sn=b4ef2ed80fca29cbed28bc3355333b4e&chksm=c293cb74f5e44262d7a57b7ff52bd6b2ee2e9533736caa52980d60dbba886af95f717234cd88#rd
+获取到原创文章：Leetcode面试高频题汇总--回溯 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485732&idx=2&sn=65ef4e2039805af86858ecbe09a6fc3e&chksm=c293cb74f5e44262c8cf60135eead38b7a75bc3e224fb7fa686fabef10837559df44691abc67#rd
+获取到原创文章：404 Not Found ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485731&idx=1&sn=b3b0cdce5fffa3e465e22880c6312908&chksm=c293cb73f5e442656935acad3edc1b2a54e0bd447588b1d51118b19d88ede4738c99abc4f6a5#rd
+正在翻页：-------------- 81
+20220615-103211
+wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:51: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

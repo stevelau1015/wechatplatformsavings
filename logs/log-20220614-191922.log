@@ -1,0 +1,12 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+开始爬取公众号：沙漏狗shallowdog
+历史文章总数为 51
+51
+正在翻页：-------------- 0
+20220614-191945
+No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+/Users/dip/PycharmProjects/mywechatsavings/main.py:52: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

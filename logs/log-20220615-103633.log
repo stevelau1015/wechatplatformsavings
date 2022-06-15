@@ -1,0 +1,35 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'B2kVQfuxFMLwSHs4AAAAAD4NzFQNLondEtq36l_qYHY='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': 'ba178dde651b6eb1f9d303a153615f5f'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'c19ZTE1kMnJTVkhpOTd2YUsyYlQ3eDNIVFV5WWZjRDBNaHBoWDk4Y05PRmIySlBmWmtZcHpLU2s2TGtsTWJlYmlkUnl6UzZsX081Tjl0RkZyRHVWRGhiTXp6UjJrTHhIWWV3SXJtWHlfc19tRnpFYURKQjNtMmczVzFmZXJuTjh5S0FPWVMxaUxYclRhZHFT'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'acf2b89f882e1ee43a832c3660816122'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'ogarHRHajbC15Cj0QX37DDAz3nNmXpSZ5GE0qLN9mA8Fj2sLk+palkO7wYAI58iZ'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454824, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55260620432159'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655606237, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIMDe7meVwrQyfwpahjPnML75MVveZb21bBPFz86a1OwV'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'B2kVQfuxFMLwSHs4AAAAAD4NzFQNLondEtq36l_qYHY=', 'xid': 'ba178dde651b6eb1f9d303a153615f5f', 'slave_sid': 'c19ZTE1kMnJTVkhpOTd2YUsyYlQ3eDNIVFV5WWZjRDBNaHBoWDk4Y05PRmIySlBmWmtZcHpLU2s2TGtsTWJlYmlkUnl6UzZsX081Tjl0RkZyRHVWRGhiTXp6UjJrTHhIWWV3SXJtWHlfc19tRnpFYURKQjNtMmczVzFmZXJuTjh5S0FPWVMxaUxYclRhZHFT', 'uuid': 'acf2b89f882e1ee43a832c3660816122', 'data_ticket': 'ogarHRHajbC15Cj0QX37DDAz3nNmXpSZ5GE0qLN9mA8Fj2sLk+palkO7wYAI58iZ', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55260620432159', 'rand_info': 'CAESIMDe7meVwrQyfwpahjPnML75MVveZb21bBPFz86a1OwV'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "B2kVQfuxFMLwSHs4AAAAAD4NzFQNLondEtq36l_qYHY=", "xid": "ba178dde651b6eb1f9d303a153615f5f", "slave_sid": "c19ZTE1kMnJTVkhpOTd2YUsyYlQ3eDNIVFV5WWZjRDBNaHBoWDk4Y05PRmIySlBmWmtZcHpLU2s2TGtsTWJlYmlkUnl6UzZsX081Tjl0RkZyRHVWRGhiTXp6UjJrTHhIWWV3SXJtWHlfc19tRnpFYURKQjNtMmczVzFmZXJuTjh5S0FPWVMxaUxYclRhZHFT", "uuid": "acf2b89f882e1ee43a832c3660816122", "data_ticket": "ogarHRHajbC15Cj0QX37DDAz3nNmXpSZ5GE0qLN9mA8Fj2sLk+palkO7wYAI58iZ", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55260620432159", "rand_info": "CAESIMDe7meVwrQyfwpahjPnML75MVveZb21bBPFz86a1OwV"}
+cookies信息已保存到本地
+开始爬取公众号：陈同学在搬砖
+历史文章总数为 87
+87
+正在翻页：-------------- 82
+20220615-103658
+获取到原创文章：Leetcode面试高频题汇总--动态规划 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485729&idx=1&sn=645cfb8a5844877f0dc302d9a7058294&chksm=c293cb71f5e442679d3f5aeed3c2e5659d336b85424a23b6acf1388934c0a8bd80ad6714cfce#rd
+获取到原创文章：Leetcode面试高频题汇总--树 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485728&idx=1&sn=8814345a63a7d7c21f38852e793ab0f8&chksm=c293cb70f5e44266e9df0ad750bf97d45cc51b534a228f68e1207e134812ce482c80acd842dd#rd
+获取到原创文章：Leetcode面试高频题汇总--堆 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485728&idx=2&sn=2d250283be0fcb683d84d82c1cbfd37e&chksm=c293cb70f5e442661b5320dab8ae77070f23b0d0a75f19cc69324509678ee80b67a950d2a3de#rd
+获取到原创文章：Leetcode面试高频题汇总--数组 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485727&idx=1&sn=ddbddcaa9496f705cc917eb88411bd73&chksm=c293cb4ff5e442590fc5524b1c5c982d96c064c692c756cfbb67e0c0517706f71364e49af29d#rd
+获取到原创文章：Leetcode面试高频题汇总--字符串 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485727&idx=2&sn=1e65738525d43b60990f2f1d2d8715fa&chksm=c293cb4ff5e442592e5907dd3bf25eee4c7fdd654a5383481b491abedd44750bbd1f2cdab9c3#rd
+获取到原创文章：Leetcode面试高频题汇总--链表 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485725&idx=1&sn=bcc439206cecb2e495c665c7c66881c2&chksm=c293cb4df5e4425b4f7b13d9fba3bebed702d0878faa06fea8d2c7c08b31766fc5da909840f0#rd
+获取到原创文章：Leetcode面试高频题汇总--栈 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485725&idx=2&sn=b017d3a082e22fef0c59fda10ca3dca9&chksm=c293cb4df5e4425b2a5d310cd9982960c2fe246156f886a9b848f257c92369c687331a2f314c#rd
+获取到原创文章：【设计模式】可能是东半球最透彻的单例模式讲解 ： http://mp.weixin.qq.com/s?__biz=MzkzNzIzNjI4Nw==&mid=2247485722&idx=1&sn=e315a9f3e893db98276a18117a24612e&chksm=c293cb4af5e4425cf0afc7229c69f20b97fac21e0b6f70ad81821e080a91025e8d16905c50f4#rd
+正在翻页：-------------- 87
+20220615-103856
+正在翻页：-------------- 92
+20220615-103947
+/Users/dip/PycharmProjects/mywechatsavings/main.py:51: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
+Traceback (most recent call last):
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 204, in <module>
+    get_content(query)
+  File "/Users/dip/PycharmProjects/mywechatsavings/main.py", line 182, in get_content
+    time.sleep(50)
+KeyboardInterrupt

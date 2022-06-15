@@ -1,0 +1,75 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'mA1gyMDFNRVJwYbtAAAAAM7NtASwxEwm6sseCx3KcN8='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '292e6c8fba4c7219407af10da627a678'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'Z2d0MmxvTXZfTGV1d25vVnBocUlJTWh4aUtkYzdLV2V6cHZpd1pzSmtkd0hRSkFJcnpOVnZrVnhWaXhCRGJOVEQ3SDRfcUpfR1BkaEVLbDFlX3Q4WXg5SEFWemhjR0pxajVRX2dYWEJ2VFRKZjZaQXU0a3F6NGVITTczOEdLeXBJUzFCaTZKYUQ0UW5wZEgy'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': 'bf1be0dc40424844f344871d021b4e38'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'zlLd6itLcjL6E4+qA4MVfO3cQvtJzPWWEsq/OapFTbbAJWZmGT2fkjFWa1ngot1b'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454825, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55263732700765'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655609351, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIKoz5OWsD7E+epzR4431HOhEFzTK17KrrRxaqqxKBvTD'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'mA1gyMDFNRVJwYbtAAAAAM7NtASwxEwm6sseCx3KcN8=', 'xid': '292e6c8fba4c7219407af10da627a678', 'slave_sid': 'Z2d0MmxvTXZfTGV1d25vVnBocUlJTWh4aUtkYzdLV2V6cHZpd1pzSmtkd0hRSkFJcnpOVnZrVnhWaXhCRGJOVEQ3SDRfcUpfR1BkaEVLbDFlX3Q4WXg5SEFWemhjR0pxajVRX2dYWEJ2VFRKZjZaQXU0a3F6NGVITTczOEdLeXBJUzFCaTZKYUQ0UW5wZEgy', 'uuid': 'bf1be0dc40424844f344871d021b4e38', 'data_ticket': 'zlLd6itLcjL6E4+qA4MVfO3cQvtJzPWWEsq/OapFTbbAJWZmGT2fkjFWa1ngot1b', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55263732700765', 'rand_info': 'CAESIKoz5OWsD7E+epzR4431HOhEFzTK17KrrRxaqqxKBvTD'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "mA1gyMDFNRVJwYbtAAAAAM7NtASwxEwm6sseCx3KcN8=", "xid": "292e6c8fba4c7219407af10da627a678", "slave_sid": "Z2d0MmxvTXZfTGV1d25vVnBocUlJTWh4aUtkYzdLV2V6cHZpd1pzSmtkd0hRSkFJcnpOVnZrVnhWaXhCRGJOVEQ3SDRfcUpfR1BkaEVLbDFlX3Q4WXg5SEFWemhjR0pxajVRX2dYWEJ2VFRKZjZaQXU0a3F6NGVITTczOEdLeXBJUzFCaTZKYUQ0UW5wZEgy", "uuid": "bf1be0dc40424844f344871d021b4e38", "data_ticket": "zlLd6itLcjL6E4+qA4MVfO3cQvtJzPWWEsq/OapFTbbAJWZmGT2fkjFWa1ngot1b", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55263732700765", "rand_info": "CAESIKoz5OWsD7E+epzR4431HOhEFzTK17KrrRxaqqxKBvTD"}
+cookies信息已保存到本地
+开始爬取公众号：冷罐罐
+历史文章总数为 24
+24
+正在翻页：-------------- 0
+20220615-112852
+获取到原创文章：“你这个土鳖越南人” ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247484067&idx=1&sn=d76183374e8f857d47ebfc05d75511e7&chksm=c184f49cf6f37d8a2c9ca3c4aa60275c7b5c08cb41aec36bc5f28a9c51badcfbf187825aa60e#rd
+获取到原创文章：浅战亮马之河 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247484062&idx=1&sn=75cc9c1c9e87c7b770ed474d8a71d94d&chksm=c184f4a1f6f37db7c95aaac2b452cbc32251ac5326046a8824ed95377cf0d92f9e7b657c124e#rd
+获取到原创文章：“如果心里觉得不踏实，就去钻研经典著作，《共产党宣言》多看几遍”
+​——转自人日公众号《我的读书心得》 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247484000&idx=1&sn=89f6995a656c383ea21619231065ac36&chksm=c184f45ff6f37d495699fb95d8c3f60b4ab341db5adf8db4703d1c2f4b1c1e84cb18a0fe8428#rd
+获取到原创文章：这是生活发现它不得不模仿它所谴责的艺术的绝好事例。
+——关于最近发生的一切 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483998&idx=1&sn=9167f60e47148069631cb3af482cf904&chksm=c184f461f6f37d7766aa54fa4949c954780b6ee5f61bffa805f898367a7cb3c1c320abdf3af0#rd
+获取到原创文章：上海是成千上万个人的集体幻想，一个人的脑袋瓜子显然是不够用的。 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483996&idx=1&sn=a4525545b3a963d901aa1066ade6597b&chksm=c184f463f6f37d752c4015d7f7c438d75a86c4b5df56cf0aaa6c954a5a372aebbfb082c80144#rd
+正在翻页：-------------- 5
+20220615-113008
+获取到原创文章：需要爹的蝙蝠侠，大概也不是什么好蝙蝠侠 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483993&idx=1&sn=e36eaf395381086dcf477dddbae20f56&chksm=c184f466f6f37d70490ec9959a31a81649576fead40d0d1285e0325db1810e0d2db85e04a88c#rd
+获取到原创文章：《四海》真是一星烂片吗？ ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483982&idx=1&sn=cf9f75fa202f5200e52f8a897123eb65&chksm=c184f471f6f37d6762f25451ad802b9ad37a644f9480ff6ba06f0e7c61f0f0579365273673a1#rd
+获取到原创文章：就在此刻了 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483980&idx=1&sn=c422cd9ff73589e3d9bd4b64cc7e961f&chksm=c184f473f6f37d655444d0f82ef2479823ba9ab860e7ab1af07629745a7459415427f62722a0#rd
+获取到原创文章：看片要趁早 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483975&idx=1&sn=a6180d618a96941ddf64b1e3e2b170c4&chksm=c184f478f6f37d6e269e0f651e62868c91e07038742390e0ef46dabd20144e0c5ac13f8253a4#rd
+获取到原创文章：好消息是我终于不再除了年轻一无所有，坏消息是我一无所有。 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483965&idx=1&sn=9362d7e506bfc3691202827174e1fd21&chksm=c184f402f6f37d143f49fe29e6ee908c6a757d04409ab57fb559f98e2a495487daf21cf9fee4#rd
+正在翻页：-------------- 10
+20220615-113121
+获取到原创文章：往嘴里倒进一杯欢乐又微毒的酒精！
+——2021总结 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483963&idx=1&sn=e56fb95e82b9f1a0981534062659e1cd&chksm=c184f404f6f37d12aa4a541538fca60d255744eef40a032c764379c9a2f824bd9b31885625dc#rd
+获取到原创文章：紧张罐罐 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483961&idx=1&sn=a34bd7b8fc8dc2519d10ad2cd9aa0224&chksm=c184f406f6f37d10f489da4894412b7fa2d0a5f445ea87dfbaf660a3e346a4b59cff2b7fbabf#rd
+获取到原创文章：浪费生命指南 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483945&idx=1&sn=4b27d8144bab2c3cfcb87a9eaba88f0c&chksm=c184f416f6f37d0019e4ff4c5ca3c814c2bbf34458952c014b6d859d9eb9b3f943154a71dae4#rd
+获取到原创文章：关于粉丝迁移至本公众号的说明 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483898&idx=1&sn=bb4b76dca4c18d6b11adcda3b228bbbf&chksm=c184f7c5f6f37ed39ebab4d931f918ee9c6a6a8a92ebcbdb65f1343888874d5c24cd0810432d#rd
+获取到原创文章：情人最根本的特征：欲望摆在道德之前。 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483897&idx=1&sn=66aac657e5fb3c8c64c37cf8398e146a&chksm=c184f7c6f6f37ed06db1e02dd391ef6ff736e595309a4bb61650f43e0f6db33d95638b1f7569#rd
+正在翻页：-------------- 15
+20220615-113226
+获取到原创文章：任何事物都要有节制，包括节制本身。从这一点来看，咱必须要，时不时地，放纵一下。 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483895&idx=1&sn=2bec5a3d9733eb6814c63cb27d79ca23&chksm=c184f7c8f6f37ede16ed2e3fde62d4ad10487acbaea57a9100434a8b5a033c9b1a41fe08e362#rd
+获取到原创文章：对无关紧要的细节进行无休无止的说明，长篇大论却毫不切题。
+——极乐生活指南 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483893&idx=1&sn=a38607a8af25af4fac53a1ab4c89a34d&chksm=c184f7caf6f37edc236bbcc28c2ca45fee28a1306e22293d334e00f75394b5ed78f20d41dd2d#rd
+获取到原创文章：《驾驶我的车》为什么不够好 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483889&idx=1&sn=aa417aa6355f70c1f2b4fae6baa6f8a4&chksm=c184f7cef6f37ed87d4b82d9294a686d4a59e72c4483aae2acb62835062815eec0487348623a#rd
+获取到原创文章：村上春树为什么不是一流作家 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483889&idx=2&sn=3f1e3b67865ec5cf7aff273abf3af2ba&chksm=c184f7cef6f37ed8a7a29c2e36a7a4a3f9cf11980582f7cd4d59ecd7f05caf5574ff2d469c86#rd
+获取到原创文章：阿基·考里斯马基《我聘请了职业杀手》（1960） ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483780&idx=1&sn=bacb36fd681974a6d340bde7c173084e&chksm=c184f7bbf6f37eadef1bdf89c8259f1dbfd3ecc1152aa899923b7560784899768cfc362271ac#rd
+获取到原创文章：谈论你所爱的事物，最好的方法是轻轻说起它。
+——阿尔贝·加缪，《无史之城掠影》 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483776&idx=1&sn=8d3cfbade91554180bb6b6756782adbf&chksm=c184f7bff6f37ea9db6aa62357e5b59f838d7795cb90ab2ca1e1caa661e4ea39469c5c9df792#rd
+正在翻页：-------------- 20
+20220615-113337
+获取到原创文章：旧文 | 按时自渎 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483774&idx=1&sn=f7a8cf40d669f36947013d9d79484961&chksm=c184f741f6f37e579d334d113fed25d064c156704c0984008a1a3e9e30dbdddad33ad1e47c5a#rd
+获取到原创文章：旧文 | 大厂寄生手记 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483763&idx=1&sn=1b2954c5bb7707d353ee72b2e0b051aa&chksm=c184f74cf6f37e5a2118047d19bca047c2294ff5449a99730f3653b66f1b6d07f8ade9c9891b#rd
+获取到原创文章：旧文 |《偶然与想象》为什么不够好 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483750&idx=1&sn=86cc0ae93681b56e98cb28ab8d3f1048&chksm=c184f759f6f37e4fbe3623ca23645b84816695f5e4c63451487f0fd495dcd58776bebaf30372#rd
+获取到原创文章：旧文 | 一个失恋者来到神父前 ： http://mp.weixin.qq.com/s?__biz=MzkyMTI5Nzc0NA==&mid=2247483744&idx=1&sn=21369c4f36569098bc0ab389e262a349&chksm=c184f75ff6f37e49b4ccb85ea6ad4227f826686736cdb7c21aad885fcf16a9c1ed13f1fde83a#rd
+爬取完成
+开始爬取公众号：李镜合
+历史文章总数为 88
+88
+正在翻页：-------------- 0
+20220615-113453
+获取到原创文章：遇到点种族歧视 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247485097&idx=1&sn=2bbc9a5181be380126dc1ff9d8e6b132&chksm=fe58ccd3c92f45c5af1f760fac6aec0f67d6a645d62ca8443373f3a43709b9f3010c810821d9#rd
+获取到原创文章：在河之舟 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247485092&idx=1&sn=9685829cdde856bf84eaef33dae9c409&chksm=fe58ccdec92f45c84edc6a9690c96ff7c80572543a5d817d44120a6571a9ee588aef92270068#rd
+获取到原创文章：打工的杂货店周日也营业 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247485085&idx=1&sn=c4a997554a39b76279e56c42365d7de5&chksm=fe58cce7c92f45f120930cf76dfff43f7b9c054de0e7a013f67b0eb3ed90770214e107eeeee6#rd
+获取到原创文章：新年给你一个熊抱好不好 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247485080&idx=1&sn=802e94a7f06446723c305b2a9fb2f6c8&chksm=fe58cce2c92f45f41bae7c74f901df6f087e66962a1657986b136ae35063e0953ed700498e49#rd
+获取到原创文章：我的奶奶 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247485068&idx=1&sn=0130d9a8056cddb7ab278009f10bf255&chksm=fe58ccf6c92f45e0cf560c03174095ea743bce5ffa9c44b6c9f2818647945bdebdb871cd4828#rd
+正在翻页：-------------- 5
+20220615-113603
+获取到原创文章：小猫Teo ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247485063&idx=1&sn=6760454ce56d6ca069e391ebca8b2696&chksm=fe58ccfdc92f45eb0fd707955ceb41b1ccf8a5b896ecd6c7dc7762349bd099a2bb2da2ea64c3#rd
+获取到原创文章：First Love ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484994&idx=1&sn=0e64ff6b02d06f9e82e12de26fadb295&chksm=fe58cc38c92f452e7f04f84a147f36e77a76da536ee0800d41c0d8c522ce39cc86978d0745ba#rd
+获取到原创文章：法语课结束了，虽然 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484988&idx=1&sn=77762b70a6ec02613ca75c6e192f48dd&chksm=fe58cc46c92f45506c5a8ce484fcb39c200e10e2dd79e2bf30b270c464e1a70bb5889cea22e0#rd
+获取到原创文章：又老了一岁诶 ： http://mp.weixin.qq.com/s?__biz=MzU5NzA0MDkxNw==&mid=2247484982&idx=1&sn=8a2b92cde4aa532b2ef02456c29ce624&chksm=fe58cc4cc92f455a46504a45f6d1016d896fb0aefd23b40a6c31c88ed29921cca008c255785f#rd
+wkhtmltopdf reported an error:
+Exit with code 1 due to network error: ContentNotFoundError
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:50: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)

@@ -1,0 +1,48 @@
+启动浏览器，打开微信公众号登录界面
+请拿手机扫码二维码登录公众号
+登录成功
+<class 'list'>
+[{'domain': 'mp.weixin.qq.com', 'expiry': 4294967295, 'httpOnly': False, 'name': 'mm_lang', 'path': '/', 'secure': True, 'value': 'zh_CN'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'slave_user', 'path': '/', 'secure': True, 'value': 'gh_52a317853636'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'ua_id', 'path': '/', 'secure': True, 'value': 'GEkFBOkk3dYNWFaxAAAAABmST3zwgt_xETl-hiXT_SM='}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147483647, 'httpOnly': True, 'name': 'xid', 'path': '/', 'secure': True, 'value': '384d6811aa937167ef18669de84b7e46'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'slave_sid', 'path': '/', 'secure': True, 'value': 'VnlLb2JfUHRxa2d6X1NjUHBmc1Vmb1BaVmhNdDNvdjBJUkZUY01JYThIdDZ6Szd5cHpabFlrN3pRaTVUNDNrSzNsY2ZYUlRZV2o3NlNmUm82SngzdkFGQ1BUYnZQRldiaDA1OUg3RTdoWlZydlRKa2ZSbEdnem1DdmZBN1EyTGxuaGZ4Q2htVHpIbWU2aGtt'}, {'domain': 'mp.weixin.qq.com', 'httpOnly': True, 'name': 'uuid', 'path': '/', 'secure': True, 'value': '415b56fdee0e5c5710092416833edf25'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'data_ticket', 'path': '/', 'secure': True, 'value': 'TcQ8sbylxjgVLlYQaXcsOMLnLipYgq8hajHqMyHuwdRscbJHN3DcHwyiuKVUSXCT'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'data_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'slave_bizuin', 'path': '/', 'secure': True, 'value': '3949376427'}, {'domain': 'mp.weixin.qq.com', 'expiry': 2147454824, 'httpOnly': False, 'name': 'wxuin', 'path': '/', 'secure': False, 'value': '55261619195183'}, {'domain': 'mp.weixin.qq.com', 'expiry': 1655607236, 'httpOnly': True, 'name': 'rand_info', 'path': '/', 'secure': True, 'value': 'CAESIFl8B6gU3LD4Uj0X3KhCPKMoCHsEhyqngKAmMD70ngd6'}]
+<class 'dict'>
+{'mm_lang': 'zh_CN', 'slave_user': 'gh_52a317853636', 'ua_id': 'GEkFBOkk3dYNWFaxAAAAABmST3zwgt_xETl-hiXT_SM=', 'xid': '384d6811aa937167ef18669de84b7e46', 'slave_sid': 'VnlLb2JfUHRxa2d6X1NjUHBmc1Vmb1BaVmhNdDNvdjBJUkZUY01JYThIdDZ6Szd5cHpabFlrN3pRaTVUNDNrSzNsY2ZYUlRZV2o3NlNmUm82SngzdkFGQ1BUYnZQRldiaDA1OUg3RTdoWlZydlRKa2ZSbEdnem1DdmZBN1EyTGxuaGZ4Q2htVHpIbWU2aGtt', 'uuid': '415b56fdee0e5c5710092416833edf25', 'data_ticket': 'TcQ8sbylxjgVLlYQaXcsOMLnLipYgq8hajHqMyHuwdRscbJHN3DcHwyiuKVUSXCT', 'bizuin': '3949376427', 'data_bizuin': '3949376427', 'slave_bizuin': '3949376427', 'wxuin': '55261619195183', 'rand_info': 'CAESIFl8B6gU3LD4Uj0X3KhCPKMoCHsEhyqngKAmMD70ngd6'}
+<class 'str'>
+{"mm_lang": "zh_CN", "slave_user": "gh_52a317853636", "ua_id": "GEkFBOkk3dYNWFaxAAAAABmST3zwgt_xETl-hiXT_SM=", "xid": "384d6811aa937167ef18669de84b7e46", "slave_sid": "VnlLb2JfUHRxa2d6X1NjUHBmc1Vmb1BaVmhNdDNvdjBJUkZUY01JYThIdDZ6Szd5cHpabFlrN3pRaTVUNDNrSzNsY2ZYUlRZV2o3NlNmUm82SngzdkFGQ1BUYnZQRldiaDA1OUg3RTdoWlZydlRKa2ZSbEdnem1DdmZBN1EyTGxuaGZ4Q2htVHpIbWU2aGtt", "uuid": "415b56fdee0e5c5710092416833edf25", "data_ticket": "TcQ8sbylxjgVLlYQaXcsOMLnLipYgq8hajHqMyHuwdRscbJHN3DcHwyiuKVUSXCT", "bizuin": "3949376427", "data_bizuin": "3949376427", "slave_bizuin": "3949376427", "wxuin": "55261619195183", "rand_info": "CAESIFl8B6gU3LD4Uj0X3KhCPKMoCHsEhyqngKAmMD70ngd6"}
+cookies信息已保存到本地
+开始爬取公众号：灰暗的紧迫性
+历史文章总数为 13
+13
+正在翻页：-------------- 0
+20220615-105337
+获取到原创文章：2271|颅下之握-02 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483796&idx=1&sn=dd705e536966809592c980ad386c4f05&chksm=fabc9094cdcb19820c0b5704ae2de8f61ea74974633724def448ac72cd332505a45f492926c9#rd
+获取到原创文章：2271|颅下之握-01 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483791&idx=1&sn=5a2dda989e5721a6522eba61f1f43a18&chksm=fabc908fcdcb19995ac9b2d5a90db81ead7cc4eb63787ca44fe93f5d77a170205c2d0d52c957#rd
+获取到原创文章：2271|颅下之握-00 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483786&idx=1&sn=bbd763fe7c1e662daa64e44519722adc&chksm=fabc908acdcb199cc8923ec06c75ae6ea44a1fed43372f4ba0dfbed323d5c287b8d026d00c2a#rd
+获取到原创文章：下午好，朋友们！
+
+想知道你们都是靠着什么念头活下去的呢？目前脑子里最清晰的信念和盼头是什么呢？或者是怎样的某次美好回忆支撑着你一直在走下去呢？
+
+如果愿意的话，请在公众号对话框里回复消息告诉我，谢谢大家，祝你们下班愉快。 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483781&idx=1&sn=e23f14b94d4910470732c59f4f7750ab&chksm=fabc9085cdcb1993c51ec538098791bc0be1036f60693e6bb137de08661eb3130b0b6ec08f6f#rd
+获取到原创文章：海上流亡记 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483778&idx=1&sn=62d6d9da5e7d86e76d0f32c3f14d33c1&chksm=fabc9082cdcb1994839ba869a9004e3b3de894adb105045a4907737c831aa77ae730154c273b#rd
+正在翻页：-------------- 5
+20220615-105444
+获取到原创文章：爱如朋克永不死！恶霸出版第三期！！！ ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483755&idx=1&sn=0c5bab8061ebf73be2d2d3e71cad7a13&chksm=fabc906bcdcb197df846f346b7203a0b7f46ecc57f71de0b92a7a39de3dafe86f749cf747ae9#rd
+获取到原创文章：因为是满月所以更新一下 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483727&idx=1&sn=81ad7641b6704190110e3749d7ffec0e&chksm=fabc904fcdcb19595873d8ecd24ad270412f66c93e810a0b02e7681882289bb498225d303173#rd
+获取到原创文章：我的小型烂片库 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483709&idx=1&sn=2ff69eb15cf3c6e943ca75722b209805&chksm=fabc903dcdcb192b4cf80790509e6ff8827288aa64eae450d2ff891faa6044bf428603d5b077#rd
+获取到原创文章：蛇行手记（上） ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483699&idx=1&sn=020d1e75505fa7b30ef4cddccd266a14&chksm=fabc9033cdcb192500dd22a235abe987c56630237a0ba5ca08eb539d56743d5c0e31ab127b57#rd
+获取到原创文章：而抒情的同志会怎样呢 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483687&idx=1&sn=4d228379549da14840a9a8339cf45ac7&chksm=fabc9027cdcb1931eedcfa9bdd587c9a487971aaf9b624e44ec4ffa72cb88db383152bdd1b5f#rd
+正在翻页：-------------- 10
+20220615-105554
+获取到原创文章：我的染血之室 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483671&idx=1&sn=97b7ba8887a62a4a76d29e445a12063f&chksm=fabc9017cdcb19013cf6d5b4e924f6744b5a662951a44d4ac83f156e7a2ea0f72dec84abc694#rd
+获取到原创文章：鲑鱼夜溯 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483666&idx=1&sn=796416bca6a9d6709284c68929673335&chksm=fabc9012cdcb190464206bc6e0c318ca03db87a337f821da4cc361e88ebe87473154347273bf#rd
+获取到原创文章：食用同类的追随者们觉得爱与死是炼金 ： http://mp.weixin.qq.com/s?__biz=MzUzMTc0NDg3OQ==&mid=2247483662&idx=1&sn=513355a07d723e82f8b3a08001f478a7&chksm=fabc900ecdcb1918dbc0f0bd5337817f23bd7bef79f747db909a6d8a4b8019feee7748bea685#rd
+爬取完成
+开始爬取公众号：JSong的数据科学小站
+历史文章总数为 26
+26
+正在翻页：-------------- 0
+20220615-105659
+wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+/Users/dip/PycharmProjects/mywechatsavings/main.py:51: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  driver = webdriver.Chrome(executable_path=CHROME_DRIVER)
